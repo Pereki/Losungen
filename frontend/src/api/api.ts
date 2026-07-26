@@ -1,6 +1,6 @@
 import type { Devotion } from './models'
 
-const BASE_URL = 'http://localhost:3000/api'
+const BASE_URL = '/api'
 
 export async function getDevotionOfTheDay (): Promise<Devotion> {
   const response = await fetch(`${BASE_URL}/devotion/today`)
