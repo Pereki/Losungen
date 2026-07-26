@@ -39,6 +39,7 @@
 
   async function loadDevotion () {
     devotion.value = await getDevotionOfTheDay()
+    offset.value = 0
   }
 
   watch(offset, async () => {
