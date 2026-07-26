@@ -48,4 +48,4 @@ fly deploy
 
 ---
 
-**Datenquelle:** Die Täglichen Losungen © Evangelische Kirche in Deutschland (EKD) — herzlichen Dank für die Bereitstellung dieser wertvollen Ressource!
+**Datenquelle:** Die Täglichen Losungen® © Evangelische Brüder-Unität – Herrnhuter Brüdergemeine. Bibeltexte: Lutherbibel 2017 © Deutsche Bibelgesellschaft.
