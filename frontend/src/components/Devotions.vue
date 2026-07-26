@@ -2,7 +2,9 @@
   <div class="pb-14">
     <v-app-bar title="Die tägliche Losung" />
 
-
+    <v-card  class="p-2 mt-4 text-center ml-auto mr-auto text-xl rounded-2xl" max-width="480">
+        Dieser Sonntag ({{ new Date(nextSunday?.date).toLocaleDateString() }}) ist der <span class="font-bold">{{ nextSunday?.liturgical_day }}</span>
+    </v-card>
 
     <v-container class="items-center" max-width="900">
       <DevotionsCard v-if="devotion" :devotion="devotion" />
@@ -33,6 +35,8 @@
   const offset = ref(0)
   const devotion: Ref<Devotion | undefined> = ref(undefined)
   const nextSunday: Ref<Devotion | undefined> = ref(undefined)
+
+
 
   onMounted(async () => {
     devotion.value = await getDevotionOfTheDay()
