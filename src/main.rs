@@ -24,6 +24,10 @@ async fn get_devotion_of(
     Json(data_mapper.get_devotion_of(&date).clone())
 }
 
+async fn get_next_sunday(State(data_mapper): State<Arc<DataMapper>>) -> Json<Devotion> {
+    Json(data_mapper.get_next_sunday().clone())
+}
+
 #[tokio::main]
 async fn main() {
     let data_mapper = Arc::new(DataMapper::new());
@@ -36,6 +40,7 @@ async fn main() {
     let app = Router::new()
         .route("/api/devotion/today", get(get_devotion_of_the_day))
         .route("/api/devotion/{date}", get(get_devotion_of))
+        .route("/api/devotion/sunday", get(get_next_sunday))
         .fallback_service(ServeDir::new("../frontend/dist"))
         .layer(cors)
         .with_state(data_mapper);
