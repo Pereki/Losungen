@@ -17,11 +17,3 @@ export async function getDevotionOf (date: string): Promise<Devotion> {
   }
   return response.json()
 }
-
-export async function getNextSunday (): Promise<Devotion> {
-  const response = await fetch(`${BASE_URL}/devotion/sunday`)
-  if (!response.ok) {
-    throw new Error(`Failed to fetch devotion: ${response.status}`)
-  }
-  return response.json()
-}
