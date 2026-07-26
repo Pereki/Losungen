@@ -1,10 +1,11 @@
 <template>
-  <v-app-bar title="Die tägliche Losung"></v-app-bar>
-  <v-container class="h-full flex items-center" max-width="900">
-    <DevotionsCard v-if="devotion" :devotion="devotion" />
-  </v-container>
+  <div class="flex flex-col min-h-dvh">
+    <v-app-bar title="Die tägliche Losung"></v-app-bar>
+    <v-container class="flex-1 flex items-center" max-width="900">
+      <DevotionsCard v-if="devotion" :devotion="devotion" />
+    </v-container>
 
-  <footer class="mt-8 border-t pt-4 text-center text-xs text-gray-500">
+    <footer class="border-t pt-4 pb-4 text-center text-xs text-gray-500">
     <p>
       Losungen® © Evangelische Brüder-Unität – Herrnhuter Brüdergemeine
     </p>
@@ -12,6 +13,7 @@
       Bibeltexte: Lutherbibel 2017 © Deutsche Bibelgesellschaft
     </p>
   </footer>
+  </div>
 </template>
 
 <script setup lang="ts">
