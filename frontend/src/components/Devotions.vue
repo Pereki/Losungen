@@ -1,11 +1,11 @@
 <template>
-  <div class="flex flex-col min-h-dvh">
+  <div class="flex flex-col flex-1">
     <v-app-bar title="Die tägliche Losung"></v-app-bar>
     <v-container class="flex-1 flex items-center" max-width="900">
       <DevotionsCard v-if="devotion" :devotion="devotion" />
     </v-container>
 
-    <footer class="border-t pt-4 pb-4 text-center text-xs text-gray-500">
+    <footer class="border-t pt-2 pb-2 text-center text-xs text-gray-500">
     <p>
       Losungen® © Evangelische Brüder-Unität – Herrnhuter Brüdergemeine
     </p>
