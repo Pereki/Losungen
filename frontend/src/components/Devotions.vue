@@ -2,14 +2,16 @@
   <div class="pb-14">
     <v-app-bar title="Die tägliche Losung" />
 
-    <v-container class="flex items-center" max-width="900">
-      <DevotionsCard v-if="devotion" :devotion="devotion" />
-    </v-container>
-
-    <div class="flex justify-center gap-5 w-full items-center">
+    <div class="flex justify-center gap-5 mt-4 w-full">
       <v-btn @click="offset--"><v-icon>mdi-chevron-left</v-icon></v-btn>
+      <v-btn @click="loadDevotion"><v-icon>mdi-calendar-today</v-icon></v-btn>
       <v-btn @click="offset++"><v-icon>mdi-chevron-right</v-icon></v-btn>
     </div>
+
+    <v-container class="flex items-center" max-width="900">
+
+      <DevotionsCard v-if="devotion" :devotion="devotion" />
+    </v-container>
 
     <footer class="fixed bottom-0 left-0 right-0 border-t pt-2 pb-2 text-center text-xs text-gray-500 bg-white">
       <p>
@@ -32,8 +34,12 @@
   const devotion: Ref<Devotion | undefined> = ref(undefined)
 
   onMounted(async () => {
-    devotion.value = await getDevotionOfTheDay()
+    await loadDevotion()
   })
+
+  async function loadDevotion () {
+    devotion.value = await getDevotionOfTheDay()
+  }
 
   watch(offset, async () => {
     const date = new Date()
