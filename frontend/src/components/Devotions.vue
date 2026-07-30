@@ -1,6 +1,10 @@
 <template>
   <div class="pb-14">
-    <v-app-bar title="📖 Die tägliche Losung" />
+    <v-app-bar title="📖 Die tägliche Losung">
+      <template v-slot:append>
+        <v-btn icon="mdi-calendar-text" to="/liturgical-days" />
+      </template>
+    </v-app-bar>
 
     <div class="flex justify-center gap-5 mt-4 w-full">
       <v-btn @click="decreaseOffsetDate"><v-icon>mdi-chevron-left</v-icon></v-btn>
@@ -13,9 +17,28 @@
     </v-container>
 
     <v-container>
-      <NextChurchDayCard v-if="nextChurchDay" :devotion="nextChurchDay" @more-information="el => offset = new Date(el)" />
+      <NextChurchDayCard v-if="nextChurchDay" :devotion="nextChurchDay" @more-information="el => router.push(`/liturgical-day/${el}`)" />
     </v-container>
   </div>
+  <v-bottom-navigation>
+    <v-btn value="recent">
+      <v-icon>mdi-history</v-icon>
+
+      <span>Recent</span>
+    </v-btn>
+
+    <v-btn value="favorites">
+      <v-icon>mdi-heart</v-icon>
+
+      <span>Favorites</span>
+    </v-btn>
+
+    <v-btn value="nearby">
+      <v-icon>mdi-map-marker</v-icon>
+
+      <span>Nearby</span>
+    </v-btn>
+  </v-bottom-navigation>
 </template>
 
 <script setup lang="ts">
@@ -24,6 +47,7 @@
   import { getDevotionOf, getDevotionOfTheDay, getNextChurchDay } from '@/api/api'
   import DevotionsCard from '@/components/DevotionsCard.vue'
   import NextChurchDayCard from './NextChurchDayCard.vue'
+import router from '@/router'
   const offset = ref(new Date())
   const devotion: Ref<Devotion | undefined> = ref(undefined)
   const nextChurchDay: Ref<Devotion | undefined> = ref(undefined)

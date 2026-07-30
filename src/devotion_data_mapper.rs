@@ -4,11 +4,10 @@ use chrono::{NaiveDate, Utc};
 
 use crate::data::Devotion;
 
-pub struct DataMapper {
+pub struct DevotionalDataMapper {
     devotionals: HashMap<String, Devotion>,
 }
-
-impl DataMapper {
+impl DevotionalDataMapper {
     pub fn new() -> Self {
         let file: HashMap<String, Devotion> =
             serde_json::from_str(include_str!("data/data.json")).unwrap();

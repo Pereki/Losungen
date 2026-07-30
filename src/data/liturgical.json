@@ -1,0 +1,1801 @@
+{
+  "2025-11-30": [
+    {
+      "summary": "1. Advent  - Der kommende Herr",
+      "date": "2025-11-30",
+      "sermon_series": "Predigtreihe II neu",
+      "liturgical_color": "Violett",
+      "sermon_text": "Röm 13,8-12",
+      "weekly_saying": "Sacharja 9,9a",
+      "weekly_hymns": "EG 4 oder 11",
+      "weekly_psalm": "24",
+      "offering": "Pflichtopfer für das Gustav-Adolf-Werk",
+      "counting_day": "Zählsonntag",
+      "pericopes": {
+        "I": "Matthäus 21,1-11",
+        "II": "Römer 13,8-12",
+        "III": "Sacharja 9,9-10",
+        "IV": "Jeremia 23,5-8",
+        "V": "Offenbarung 3,14-22",
+        "VI": "Psalm 24"
+      },
+      "lessons": {
+        "old_testament": "Sacharja 9,9-10",
+        "epistle": "Römer 13,8-12",
+        "gospel": "Matthäus 21,1-11"
+      }
+    }
+  ],
+  "2025-12-07": [
+    {
+      "summary": "2. Advent - Der kommende Erlöser",
+      "date": "2025-12-07",
+      "sermon_series": "Predigtreihe II neu",
+      "liturgical_color": "Violett",
+      "sermon_text": "Lk 21,25-33",
+      "weekly_saying": "Lukas 21,28",
+      "weekly_hymns": "EG 7 oder Wwdl+ 37",
+      "weekly_psalm": "80,2.3b.5-6.15-16.19-20",
+      "pericopes": {
+        "I": "Jesaja 35,3-10",
+        "II": "Lukas 21,25-33",
+        "III": "Jakobus 5,7-8.(9-11)",
+        "IV": "Jesaja 63,15–64,3",
+        "V": "Hoheslied 2,8-13",
+        "VI": "Johannes 3,7-13"
+      },
+      "lessons": {
+        "old_testament": "Jesaja 63,15–64,3",
+        "epistle": "Jakobus 5,7-8.(9-11)",
+        "gospel": "Lukas 21,25-33"
+      }
+    }
+  ],
+  "2025-12-14": [
+    {
+      "summary": "3. Advent - Der Vorläufer des Herrn",
+      "date": "2025-12-14",
+      "sermon_series": "Predigtreihe II neu",
+      "liturgical_color": "Violett",
+      "sermon_text": "Lk 3,(1-2.)3-14.(15-17.)18.(19-20)",
+      "weekly_saying": "Jesaja 40,3.10",
+      "weekly_hymns": "EG 10 oder 16",
+      "weekly_psalm": "85,2-8 oder Lukas 1,68-79",
+      "pericopes": {
+        "I": "Römer 15,4-13",
+        "II": "Lukas 3,/1-2.)3-14.(15-17.)18.(19-20)",
+        "III": "Lukas 1,67-79",
+        "IV": "1. Korinther 4,1-5",
+        "V": "Jesaja 40,1-11",
+        "VI": "Matthäus 11,2-10"
+      },
+      "lessons": {
+        "old_testament": "Jesaja 40,1-11",
+        "epistle": "1. Korinther 4,1-5",
+        "gospel": "Lukas 1,67-79"
+      }
+    }
+  ],
+  "2025-12-21": [
+    {
+      "summary": "4. Advent - Die nahende Freude",
+      "date": "2025-12-21",
+      "sermon_series": "Predigtreihe II neu",
+      "liturgical_color": "Violett",
+      "sermon_text": "2. Kor 1,18-22",
+      "weekly_saying": "Philipper 4,4-5b",
+      "weekly_hymns": "EG 9 oder 19",
+      "weekly_psalm": "102,13-14.16-18.20-23 oder Lukas 1,46-55",
+      "pericopes": {
+        "I": "Lukas 1,(26-38.)39-56",
+        "II": "2. Korinther 1,18-22",
+        "III": "1. Mose 18,1-2.9-15",
+        "IV": "Lukas 1,26-38.(39-56)",
+        "V": "Philipper 4,4-7",
+        "VI": "Jesaja 62,1-5"
+      },
+      "lessons": {
+        "old_testament": "Jesaja 62,1-5",
+        "epistle": "Philipper 4,4-7",
+        "gospel": "Lukas 1,(26-38.)39-56"
+      }
+    }
+  ],
+  "2025-12-24": [
+    {
+      "summary": "Christvesper - Das Licht der Welt",
+      "date": "2025-12-24",
+      "sermon_series": "Predigtreihe II neu",
+      "liturgical_color": "weiß",
+      "sermon_text": "Hes 37,24-28",
+      "weekly_saying": "Lukas 2,10b.11",
+      "weekly_hymns": "EG 24 oder 27",
+      "weekly_psalm": "96,1-3.7-13",
+      "counting_day": "\\Zähltag",
+      "pericopes": {
+        "I": "Jesaja 9,1-6 oder Micha 5,1-4a.; Jesaja 9,5-6; Jesaja 11,1-2; Jeremia 23,5-6; Jeremia 31,31-34",
+        "II": "Hesekiel 37,24-28",
+        "III": "Jesaja 11,1-10",
+        "IV": "Micha 5,1-4a",
+        "V": "Lukas 2,1-20",
+        "VI": "Galater 4,4-7"
+      },
+      "lessons": {
+        "old_testament": "Jesaja 9,1-6",
+        "epistle": "Galater 4,4-7",
+        "gospel": "Lukas 2,1-20"
+      }
+    },
+    {
+      "summary": "Christnacht - Der Sohn Davids",
+      "date": "2025-12-24",
+      "sermon_series": "Predigtreihe II neu",
+      "liturgical_color": "weiß",
+      "sermon_text": "Sach 2,14-17",
+      "weekly_saying": "Lukas 2,10b.11",
+      "weekly_hymns": "EG 30 oder 37",
+      "weekly_psalm": "96,1-3.7-13",
+      "counting_day": "Zähltag",
+      "pericopes": {
+        "I": "1. Timotheus 3,16",
+        "II": "Sacharja 2,14-17",
+        "III": "Matthäus 1,18-25",
+        "IV": "Titus 2,11-14",
+        "V": "Hesekiel 34,23-31",
+        "VI": "Lukas 2,1-10"
+      },
+      "lessons": {
+        "old_testament": "Sacharja 2,14-17",
+        "epistle": "1. Timotheus 3,16",
+        "gospel": "Lukas 2,1-10"
+      }
+    }
+  ],
+  "2025-12-25": [
+    {
+      "summary": "Christfest I - Das Kind in der Krippe",
+      "date": "2025-12-25",
+      "sermon_series": "Predigtreihe II neu",
+      "liturgical_color": "weiß",
+      "sermon_text": "Titus 3,4-7",
+      "weekly_saying": "Johannes 1,14a",
+      "weekly_hymns": "EG 23 oder 45",
+      "weekly_psalm": "96,1-3.7-13",
+      "offering": "Pflichtopfer für Brot für die Welt",
+      "counting_day": "Zähltag",
+      "pericopes": {
+        "I": "Johannes 1,1-5.9-14.(16-18)",
+        "II": "Titus 3,4-7",
+        "III": "Jesaja 52,7-10",
+        "IV": "1. Johannes 3,1-2.(3-5)",
+        "V": "Kolosser 2,3.(4-5.)6-10",
+        "VI": "2. Mose 2,1-10"
+      },
+      "lessons": {
+        "old_testament": "Jesaja 52,7-10",
+        "epistle": "Titus 3,4-7",
+        "gospel": "Johannes 1,1-5.9-14.(16-18)"
+      }
+    }
+  ],
+  "2025-12-26": [
+    {
+      "summary": "Christfest II - Die Menschwerdung Gottes",
+      "date": "2025-12-26",
+      "sermon_series": "Predigtreihe II neu",
+      "liturgical_color": "weiß",
+      "sermon_text": "Mt 1,18-25",
+      "weekly_saying": "Johannes 1,14a",
+      "weekly_hymns": "EG 32 oder 39",
+      "weekly_psalm": "96,1-3.7-13",
+      "pericopes": {
+        "I": "Römer 1,1-7",
+        "II": "Matthäus 1,18-25",
+        "III": "Hebräer 1,1-4.(5-14)",
+        "IV": "Jesaja 7,10-14",
+        "V": "Matthäus 1,1-17",
+        "VI": "2. Korinther 8,7-9"
+      },
+      "lessons": {
+        "old_testament": "Jesaja 7,10-14",
+        "epistle": "Hebräer 1,1-4.(5-14)",
+        "gospel": "Matthäus 1,18-25"
+      }
+    }
+  ],
+  "2025-12-28": [
+    {
+      "summary": "1. Sonntag nach dem Christfest - Simeon",
+      "date": "2025-12-28",
+      "sermon_series": "Predigtreihe II neu",
+      "liturgical_color": "weiß",
+      "sermon_text": "Hiob 42,1-6",
+      "weekly_saying": "Johannes 1,14b",
+      "weekly_hymns": "EG 34 oder 36",
+      "weekly_psalm": "71,1-3.12.14-18",
+      "pericopes": {
+        "I": "Matthäus 2,13-18.(19-23)",
+        "II": "Hiob 42,1-6",
+        "III": "Lukas 2,(22-24.)25-38.(39-40)",
+        "IV": "1. Johannes 1,1-4",
+        "V": "Jesaja 49,13-16",
+        "VI": "Johannes 12,44-50"
+      },
+      "lessons": {
+        "old_testament": "Jesaja 49,13-16",
+        "epistle": "1. Johannes 1,1-4",
+        "gospel": "Lukas 2,(22-24.)25-38.(39-40)"
+      }
+    }
+  ],
+  "2025-12-31": [
+    {
+      "summary": "Altjahrabend - Zeit vor Gott",
+      "date": "2025-12-31",
+      "sermon_series": "Predigtreihe II neu",
+      "liturgical_color": "weiß",
+      "sermon_text": "Hebr 13,8-9b",
+      "weekly_saying": "Psalm 31,16a",
+      "weekly_hymns": "EG 58 oder 65",
+      "weekly_psalm": "121",
+      "pericopes": {
+        "I": "Jesaja 51,4-6",
+        "II": "Hebräer 13,8-9b",
+        "III": "2. Mose 13,20-22",
+        "IV": "Matthäus 13,24-30",
+        "V": "Römer 8,31b-39",
+        "VI": "Prediger 3,1-15"
+      },
+      "lessons": {
+        "old_testament": ": Prediger 3,1-15",
+        "epistle": "Römer 8,31b-39",
+        "gospel": "Matthäus 13,24-30"
+      }
+    }
+  ],
+  "2026-01-01": [
+    {
+      "summary": "Neujahrstag - Der Weg mit Gott",
+      "date": "2026-01-01",
+      "sermon_series": "Predigtreihe II neu",
+      "liturgical_color": "weiß",
+      "sermon_text": "Joh 14,1-6",
+      "weekly_saying": "Hebräer 13,8",
+      "weekly_hymns": "EG 64 oder 619",
+      "weekly_psalm": "8,2-10",
+      "pericopes": {
+        "I": "Josua 1,1-9",
+        "II": "Johannes 14,1-6",
+        "III": "Philipper 4,10-13.(14-20)",
+        "IV": "Sprüche 16,(1-8.)9",
+        "V": "Lukas 4,16-21",
+        "VI": "Jakobus 4,13-15"
+      },
+      "lessons": {
+        "old_testament": "Josua 1,1-9",
+        "epistle": "Jakobus 4,13-15",
+        "gospel": "Lukas 4,16-21"
+      }
+    }
+  ],
+  "2026-01-04": [
+    {
+      "summary": "2. Sonntag nach dem Christfest - Der Gottessohn",
+      "date": "2026-01-04",
+      "sermon_series": "Predigtreihe II neu",
+      "liturgical_color": "weiß",
+      "sermon_text": "Jesaja 61,1-3.(4.9)10-11",
+      "weekly_saying": "Johannes 1,14b",
+      "weekly_hymns": "EG 56 oder 73",
+      "weekly_psalm": "100",
+      "pericopes": {
+        "I": "1. Joh 5,11-13",
+        "II": "Jes 61,1-3.(4.9.)10-11",
+        "III": "Lk 2,41-52",
+        "IV": "1. Joh 5,11-13",
+        "V": "Jes 61,1-3.(4.9.)10-11",
+        "VI": "Lk 2,41-52"
+      },
+      "lessons": {
+        "old_testament": "Jesaja 61,1-11",
+        "epistle": "1. Johannes 5,11-13",
+        "gospel": "Lukas 2,41-52"
+      }
+    }
+  ],
+  "2026-01-06": [
+    {
+      "summary": "Epiphanias - Die Herrlichkeit Christi",
+      "date": "2026-01-06",
+      "sermon_series": "Predigtreihe II neu",
+      "liturgical_color": "weiß",
+      "sermon_text": "Eph 3,1-7",
+      "weekly_saying": "1. Johannes 2,8b",
+      "weekly_hymns": "EG 70 oder EG 540",
+      "weekly_psalm": "72,1-3.10-12.17b-19",
+      "offering": "Pflichtopfer für die Weltmission",
+      "pericopes": {
+        "I": "Matthäus 2,1-12",
+        "II": "Epheser 3,1-7",
+        "III": "Jesaja 60,1-6",
+        "IV": "Johannes 1,15-18",
+        "V": "2. Korinther 4,3-6",
+        "VI": "1. Könige 10,1-13"
+      },
+      "lessons": {
+        "old_testament": "Jesaja 60,1-6",
+        "epistle": "Epheser 3,1-7",
+        "gospel": "Matthäus 2,1-12"
+      }
+    }
+  ],
+  "2026-01-11": [
+    {
+      "summary": "1. Sonntag nach Epiphanias - Taufe Jesu",
+      "date": "2026-01-11",
+      "sermon_series": "Predigtreihe II neu",
+      "liturgical_color": "weiß",
+      "sermon_text": "Mt 3,13-17",
+      "weekly_saying": "Römer 8,14",
+      "weekly_hymns": "EG 410 oder 441",
+      "weekly_psalm": "89,2-5.27-30",
+      "pericopes": {
+        "I": "Josua 3,5-11.17",
+        "II": "Matthäus 3,13-17",
+        "III": "Römer 12,1-8",
+        "IV": "Jesaja 42,1-9",
+        "V": "Johannes 1,29-34",
+        "VI": "1. Korinther 1,26-31"
+      },
+      "lessons": {
+        "old_testament": "Jesaja 42,1-9",
+        "epistle": "Römer 12,1-8",
+        "gospel": "Matthäus 3,13-17"
+      }
+    }
+  ],
+  "2026-01-18": [
+    {
+      "summary": "2. Sonntag nach Epiphanias - Der Freudenmeister",
+      "date": "2026-01-18",
+      "sermon_series": "Predigtreihe II neu",
+      "liturgical_color": "weiß",
+      "sermon_text": "Jer 14,1.(2)3-4.(5-6.)7-9",
+      "weekly_saying": "Johannes 1,16",
+      "weekly_hymns": "EG 74 oder 398",
+      "weekly_psalm": "105,1-8",
+      "pericopes": {
+        "I": "Römer 12,9-16",
+        "II": "Jeremia 14,1.(2.)3-4.(5-6.)7-9",
+        "III": "Johannes 2,1-11",
+        "IV": "1. Korinther 2,1-10",
+        "V": "2. Mose 33,18-23",
+        "VI": "Hebräer 12,12-18.(19-21.)22-25a"
+      },
+      "lessons": {
+        "old_testament": "2. Mose 33,18-23",
+        "epistle": "1. Korinther 2,1-10",
+        "gospel": "Johannes 2,1-11"
+      }
+    }
+  ],
+  "2026-01-25": [
+    {
+      "summary": "3. Sonntag nach Epiphanias - Der Heiden Heiland",
+      "date": "2026-01-25",
+      "sermon_series": "Predigtreihe II neu",
+      "liturgical_color": "weiß",
+      "sermon_text": "Apg. 10,21-35",
+      "weekly_saying": "Lukas 13,29",
+      "weekly_hymns": "EG 293 oder 597",
+      "weekly_psalm": "86",
+      "pericopes": {
+        "I": "1.Johannes 4,5-14",
+        "II": "Apostelgeschichte 10,21-35",
+        "III": "Rut 1,1-19a",
+        "IV": "Matthäus 8,5-13",
+        "V": "Römer 1,13-17",
+        "VI": "2. Könige 5,(1-8.)9-15.(16-18.)19a"
+      },
+      "lessons": {
+        "old_testament": "2. Könige 5,(1-8.)9-15.(16-18.)19a",
+        "epistle": "Römer 1,13-17",
+        "gospel": "Matthäus 8,5-13"
+      }
+    }
+  ],
+  "2026-02-01": [
+    {
+      "summary": "Letzter Sonntag nach Epiphanias - Verklärung",
+      "date": "2026-02-01",
+      "sermon_series": "Predigtreihe II neu",
+      "liturgical_color": "weiß",
+      "sermon_text": "Ofb 1,9-18",
+      "weekly_saying": "Jesaja 60,2",
+      "weekly_hymns": "EG 67 oder 450",
+      "weekly_psalm": "97",
+      "pericopes": {
+        "I": "2. Mose 3,1-8a.(8b-9.)10.(11-12.)13-14.(15)",
+        "II": "Offenbarung 1,9-18",
+        "III": "2. Petrus 1,16-19.(20-21)",
+        "IV": "2. Mose 34,29-35",
+        "V": "Matthäus 17,1-9",
+        "VI": "2. Korinther 4,6-10"
+      },
+      "lessons": {
+        "old_testament": "2. Mose 3,1-8a.(8b-9.)10.(11-12.)13-14.(15)",
+        "epistle": "2. Korinther 4,6-10",
+        "gospel": "Matthäus 17,1-9"
+      }
+    }
+  ],
+  "2026-02-08": [
+    {
+      "summary": "Sexagesimä (2. Sonntag vor der Passionszeit) - Viererlei Ackerfeld",
+      "date": "2026-02-08",
+      "sermon_series": "Predigtreihe II neu",
+      "liturgical_color": "Grün",
+      "sermon_text": "Hes 2,1-5.(6-7.)8-10;3,1-3",
+      "weekly_saying": "Hebräer 3,15",
+      "weekly_hymns": "EG 196 oder 199",
+      "weekly_psalm": "119,89-92.103-105.116",
+      "pericopes": {
+        "I": "Apostelgeschichte 16,9-15",
+        "II": "Hesekiel 2,1-5.(6-7.)8-10;3,1-3",
+        "III": "Lukas 8,4-8.(9-15)",
+        "IV": "Hebräer 4,12-13",
+        "V": "Jesaja 55,(6-7.)8-12a",
+        "VI": "Markus 4,26-29"
+      },
+      "lessons": {
+        "old_testament": "Jesaja 55,(6-7.)8-12a",
+        "epistle": "Hebräer 4,12-13",
+        "gospel": "Lukas 8,4-8.(9-15)"
+      }
+    }
+  ],
+  "2026-02-15": [
+    {
+      "summary": "Estomihi (Sonntag vor der Passionszeit) - Der Weg zum Kreuz",
+      "date": "2026-02-15",
+      "sermon_series": "Predigtreihe II neu",
+      "liturgical_color": "Grün",
+      "sermon_text": "Lk 18,31-43",
+      "weekly_saying": "Lukas 18,31",
+      "weekly_hymns": "EG 401 oder Wwdl+ 217",
+      "weekly_psalm": "31,2-6.8-9.16-17",
+      "offering": "Pflichtopfer für Diakonie in der Landeskirche",
+      "pericopes": {
+        "I": "Lukas 10,38-42",
+        "II": "Lukas 18,31-43",
+        "III": "Jesaja 58,1-9a",
+        "IV": "Markus 8,31-38",
+        "V": "1. Korinther 13,1-13",
+        "VI": "Amos 5,21-24"
+      },
+      "lessons": {
+        "old_testament": "Amos 5,21-24",
+        "epistle": "1. Korinther 13,1-13",
+        "gospel": "Markus 8,31-38"
+      }
+    }
+  ],
+  "2026-02-22": [
+    {
+      "summary": "Invokavit (1. Sonntag der Passionszeit; Landesbußtag) - Versuchung",
+      "date": "2026-02-22",
+      "sermon_series": "Predigtreihe II neu",
+      "liturgical_color": "Violett",
+      "sermon_text": "1. Mo 3,1-19.(20-24)",
+      "weekly_saying": "1. Johannes 3,8b",
+      "weekly_hymns": "EG 347 oder 362",
+      "weekly_psalm": "91,1-6.9-12",
+      "counting_day": "Zählsonntag (auch im Kindergottesdienst)",
+      "pericopes": {
+        "I": "Hebräer 4,14-16",
+        "II": "1. Mose 3,1-19.(20-24)",
+        "III": "Johannes 13,21-30",
+        "IV": "2. Korinther 6,1-10",
+        "V": "Hiob 2,1-13",
+        "VI": "Matthäus 4,1-11"
+      },
+      "lessons": {
+        "old_testament": "1. Mose 3,1-19.(20-24)",
+        "epistle": "Hebräer 4,14-16",
+        "gospel": "Matthäus 4,1-11"
+      }
+    }
+  ],
+  "2026-03-06": [
+    {
+      "summary": "Weltgebetstag",
+      "date": "2026-03-06"
+    }
+  ],
+  "2026-03-01": [
+    {
+      "summary": "Reminiszere(2. Sonntag der Passionszeit) - Den Menschen ausgeliefert",
+      "date": "2026-03-01",
+      "sermon_series": "Predigtreihe II neu",
+      "liturgical_color": "Violett",
+      "sermon_text": "Röm 5,1-5.(6-11)",
+      "weekly_saying": "Römer 5,8",
+      "weekly_hymns": "EG 94 oder 96",
+      "weekly_psalm": "25,1-9",
+      "offering": "empfohlenes Opfer für verfolgte und bedrängte Christen",
+      "pericopes": {
+        "I": "Johannes 3,14-21",
+        "II": "Römer 5,1-5.(6-11)",
+        "III": "Jesaja 5,1-7",
+        "IV": "Matthäus 26,36-46",
+        "V": "Markus 12,1-12",
+        "VI": "4. Mose 21,4-9"
+      },
+      "lessons": {
+        "old_testament": "Jesaja 5,1-7",
+        "epistle": "Römer 5,1-5.(6-11)",
+        "gospel": "Johannes 3,14-21"
+      }
+    }
+  ],
+  "2026-03-08": [
+    {
+      "summary": "Okuli (3. Sonntag der Passionszeit) - Nachfolge",
+      "date": "2026-03-08",
+      "sermon_series": "Predigtreihe II neu",
+      "liturgical_color": "Violett",
+      "sermon_text": "Lk 9,57-62",
+      "weekly_saying": "Lukas 9,62",
+      "weekly_hymns": "EG 391 oder EG 548",
+      "weekly_psalm": "34,16-23",
+      "pericopes": {
+        "I": "Jeremia 20,7-11a.(11b-13)",
+        "II": "Lukas 9,57-62",
+        "III": "Epheser 5,1-2.(3-7.)8-9",
+        "IV": "1. Könige 19,1-8.(9-13a)",
+        "V": "Lukas 22,47-53",
+        "VI": "1. Petrus 1,(13-17.)18-21"
+      },
+      "lessons": {
+        "old_testament": "1. Könige 19,1-8.(9-13a)",
+        "epistle": "Epheser 5,1-2.(3-7.)8-9",
+        "gospel": "Lukas 9,57-62"
+      }
+    }
+  ],
+  "2026-03-15": [
+    {
+      "summary": "Lätare (4. Sonntag der Passionszeit) - Für euch dahingegeben",
+      "date": "2026-03-15",
+      "sermon_series": "Predigtreihe II neu",
+      "liturgical_color": "Violett",
+      "sermon_text": "Jes 66,10-14",
+      "weekly_saying": "Johannes 12,24",
+      "weekly_hymns": "EG 98 oder 396",
+      "weekly_psalm": "84,2-13",
+      "offering": "Pflichtopfer für die Studienhilfe",
+      "pericopes": {
+        "I": "Johannes 6,47-51",
+        "II": "Jesaja 66,10-14",
+        "III": "Johannes 12,20-24",
+        "IV": "2. Korinther 1,3-7",
+        "V": "Jesaja 54,7-10",
+        "VI": "Lukas 22,54-62"
+      },
+      "lessons": {
+        "old_testament": "Jesaja 54,7-10",
+        "epistle": "2. Korinther 1,3-7",
+        "gospel": "Johannes 12,20-24"
+      }
+    }
+  ],
+  "2026-03-22": [
+    {
+      "summary": "Judika (5. Sonntag der Passionszeit) - Das Lamm Gottes",
+      "date": "2026-03-22",
+      "sermon_series": "Predigtreihe II neu",
+      "liturgical_color": "Violett",
+      "sermon_text": "Hebr 13,12-14",
+      "weekly_saying": "Matthäus 20,28",
+      "weekly_hymns": "EG 76 oder 97",
+      "weekly_psalm": "43",
+      "pericopes": {
+        "I": "Johannes 18,28–19,5",
+        "II": "Hebräer 13,12-14",
+        "III": "Hiob 19,19-27",
+        "IV": "Markus 10,35-45",
+        "V": "Hebräer 5,(1-6.)7-9.(10)",
+        "VI": "1. Mose 22,1-14.(15-19)"
+      },
+      "lessons": {
+        "old_testament": "1. Mose 22,1-14.(15-19)",
+        "epistle": "Hebräer 5,(1-6.)7-9.(10)",
+        "gospel": "Markus 10,35-45"
+      }
+    }
+  ],
+  "2026-03-29": [
+    {
+      "summary": "Palmarum (6. Sonntag der Passionszeit) - Der Schmerzensmann",
+      "date": "2026-03-29",
+      "sermon_series": "Predigtreihe II neu",
+      "liturgical_color": "Violett",
+      "sermon_text": "Mk 14,(1-2.)3-9",
+      "weekly_saying": "Johannes 3,14b.15",
+      "weekly_hymns": "EG 91 oder 14",
+      "weekly_psalm": "69,2-4.8-10.14.21b-22.30 oder Philipper 2,6-11",
+      "pericopes": {
+        "I": "Jesaja 50,4-9",
+        "II": "Markus 14,(1-2.)3-9",
+        "III": "Hebräer 11,1-2.(8-12.39-40.);12,1-3",
+        "IV": "Johannes 17,1-8",
+        "V": "Johannes 12,12-19",
+        "VI": "Philipper 2,5-11"
+      },
+      "lessons": {
+        "old_testament": "Jesaja 50,4-9",
+        "epistle": "Philipper 2,5-11",
+        "gospel": "Johannes 12,12-19"
+      }
+    }
+  ],
+  "2026-04-02": [
+    {
+      "summary": "Gründonnerstag (Tag der Einsetzung des Hlg. Abendmahls - Das Mahl des neuen Bundes",
+      "date": "2026-04-02",
+      "sermon_series": "Predigtreihe II neu",
+      "liturgical_color": "Weiß",
+      "sermon_text": "2. Mo 12,1-4.(5.)6-8.(9.)10-14",
+      "weekly_saying": "Psalm 111,4",
+      "weekly_hymns": "EG 223 oder EG 587",
+      "weekly_psalm": "111",
+      "pericopes": {
+        "I": "1. Korinther 11,(17-22.)23-26.(27-29.33-34a)",
+        "II": "2. Mose 12,1-4.(5.)6-8.(9.)10-14",
+        "III": "Matthäus 26,17-30",
+        "IV": "1. Korinther 10,16-17",
+        "V": "Lukas 22,39-46",
+        "VI": "Johannes 13,1-15.34-35"
+      },
+      "lessons": {
+        "old_testament": "2. Mose 12,1-4.(5.)6-8.(9.)10-14",
+        "epistle": "1. Korinther 11,(17-22.)23-26.(27-29.33-34a)",
+        "gospel": "Johannes 13,1-15.34-35"
+      }
+    }
+  ],
+  "2026-04-03": [
+    {
+      "summary": "Karfreitag (Tag der Kreuzigung des Herrn) - Gekreuzigt und gestorben",
+      "date": "2026-04-03",
+      "sermon_series": "Predigtreihe II neu",
+      "liturgical_color": "Schwarz (oder Violett)",
+      "sermon_text": "2. Korinther 5,(14b-18.)19-21",
+      "weekly_saying": "Johannes 3,16",
+      "weekly_hymns": "EG 85 oder Wwdl+ 165",
+      "weekly_psalm": "22,2-9.12.16.19-20",
+      "offering": "empfohlenes Opferfür die Aktion \"Hoffnung für Osteuropa\" (DWW)",
+      "counting_day": "Zähltag",
+      "pericopes": {
+        "I": "Johannes 19,16-30",
+        "II": "2. Korinther 5,(14b-18.)19-21",
+        "III": "Jesaja 52,13-15;53,1-12",
+        "IV": "Lukas 23,32-49",
+        "V": "Kolosser 1,13-20",
+        "VI": "Matthäus 27,33-54"
+      }
+    },
+    {
+      "summary": "Karfreitag (Tag der Kreuzigung des Herrn) Vesper",
+      "date": "2026-04-03",
+      "sermon_series": "Predigtreihe II neu",
+      "liturgical_color": "Schwarz (oder Violett)",
+      "sermon_text": "Joh 19,31-42",
+      "weekly_saying": "Johannes 3,16",
+      "weekly_hymns": "EG 85 oder Wwdl+ 165",
+      "weekly_psalm": "22,2-9.12.16.19-20",
+      "offering": "empfohlenes Opferfür die Aktion \"Hoffnung für Osteuropa\" (DWW)",
+      "counting_day": "Zähltag",
+      "pericopes": {
+        "I": "Johannes 19,31-42"
+      }
+    }
+  ],
+  "2026-04-04": [
+    {
+      "summary": "Karsamstagabend - Begraben",
+      "date": "2026-04-04",
+      "sermon_series": "Predigtreihe II neu",
+      "liturgical_color": "Schwarz (oder Violett)",
+      "sermon_text": "Mt 27,(57-61.)62-66",
+      "weekly_saying": "Johannes 3,16",
+      "weekly_hymns": "EG 80 oder 485",
+      "weekly_psalm": "88,2-7.11-13 oder Jona 2,3-10",
+      "pericopes": {
+        "I": "Jona 2,1-11",
+        "II": "Matthäus 27,(57-61.)62-66",
+        "III": "1. Petrus 3,18-22",
+        "IV": "Hesekiel 37,1-14",
+        "V": "Johannes 19,(31-37.)38-42",
+        "VI": "Hebräer 9,11-12.24"
+      },
+      "lessons": {
+        "old_testament": "Hesekiel 37,1-14(3x)",
+        "epistle": "1. Petrus 3,18-22",
+        "gospel": "Matthäus 27,(57-61.)62-66"
+      }
+    }
+  ],
+  "2026-04-05": [
+    {
+      "summary": "Osternacht/Ostermorgen - Die Auferweckung des Gekreuzigten",
+      "date": "2026-04-05",
+      "sermon_series": "Predigtreihe II neu",
+      "liturgical_color": "weiß",
+      "sermon_text": "2. Tim 2,8-13",
+      "weekly_saying": "Offenbarung 1,18",
+      "weekly_hymns": "EG 98 oder 99",
+      "weekly_psalm": "118,14-24",
+      "pericopes": {
+        "I": "1. Thessalonicher 4,13-18",
+        "II": "2. Timotheus 2,8-13",
+        "III": "Matthäus 28,1-10",
+        "IV": "Kolosser 3,1-4",
+        "V": "Jesaja 26,13-14.(15-18.)19",
+        "VI": "Johannes 5,19-21"
+      },
+      "lessons": {
+        "old_testament": "Jesaja 26,13-14.(15-18.)19",
+        "epistle": "Kolosser 3,1-4",
+        "gospel": "Matthäus 28,1-10"
+      }
+    },
+    {
+      "summary": "Osterfest(Tag der Auferstehung des Herrn) - Das Wunder der Auferstehung",
+      "date": "2026-04-05",
+      "sermon_series": "Predigtreihe II neu",
+      "liturgical_color": "weiß",
+      "sermon_text": "1. Kor 15,(12-18.)19-28",
+      "weekly_saying": "Offenbarung 1,18",
+      "weekly_hymns": "EG 101 oder Wwdl+ 219",
+      "weekly_psalm": "118,14-24",
+      "pericopes": {
+        "I": "Johannes 20,11-18",
+        "II": "1. Korinther 15,(12-18.)19-28",
+        "III": "2. Mose 14,8-14.19-23.28-30a;15,20-21",
+        "IV": "Markus 16,1-8",
+        "V": "1. Korinther 15,1-11",
+        "VI": "1. Samuel 2,1-8a"
+      },
+      "lessons": {
+        "old_testament": "1. Samuel 2,1-8a",
+        "epistle": "1. Korinther 15,1-11",
+        "gospel": "Markus 16,1-8"
+      }
+    }
+  ],
+  "2026-04-06": [
+    {
+      "summary": "Ostermontag (und Osterwoche) - Die Gegenwart des Auferstandenen",
+      "date": "2026-04-06",
+      "sermon_series": "Predigtreihe II neu",
+      "liturgical_color": "weiß",
+      "sermon_text": "Lk 24,36-45",
+      "weekly_saying": "Offenbarung 1,18",
+      "weekly_hymns": "EG 100 oder 116",
+      "weekly_psalm": "118,14-24",
+      "pericopes": {
+        "I": "Jesaja 25,6-9",
+        "II": "Lukas 24,36-45",
+        "III": "Offenbarung 5,6-14",
+        "IV": "Jona 2,(1-2.)3-10.(11)",
+        "V": "Lukas 24,13-35",
+        "VI": "1. Korinther 15,50-58"
+      },
+      "lessons": {
+        "old_testament": "Jesaja 25,6-9",
+        "epistle": "1. Korinther 15,50-58",
+        "gospel": "Lukas 24,13-35"
+      }
+    }
+  ],
+  "2026-04-12": [
+    {
+      "summary": "Quasimodogeniti (1. Sonntag nach Ostern) - Die neue Geburt",
+      "date": "2026-04-12",
+      "sermon_series": "Predigtreihe II neu",
+      "liturgical_color": "weiß",
+      "sermon_text": "Jes 40,26-31",
+      "weekly_saying": "1. Petrus 1,3",
+      "weekly_hymns": "EG 108 oder 117",
+      "weekly_psalm": "116,1-9.13",
+      "pericopes": {
+        "I": "1. Petrus 1,3-9",
+        "II": "Jesaja 40,26-31",
+        "III": "Johannes 21,1-14",
+        "IV": "Kolosser 2,12-15",
+        "V": "1. Mose 32,23-32",
+        "VI": "Johannes 20,19-20.(21-23.)24-29"
+      },
+      "lessons": {
+        "old_testament": "Jesaja 40,26-31",
+        "epistle": "1. Petrus 1,3-9",
+        "gospel": "Johannes 20,19-20.(21-23.)24-29"
+      }
+    }
+  ],
+  "2026-04-19": [
+    {
+      "summary": "Miserikordias Domini (2. Sonntag nach Ostern) - Der gute Hirte",
+      "date": "2026-04-19",
+      "sermon_series": "Predigtreihe II neu",
+      "liturgical_color": "weiß",
+      "sermon_text": "1. Petr 2,21b-25",
+      "weekly_saying": "Johannes 10,11a.27-28a",
+      "weekly_hymns": "EG 274 oder 358",
+      "weekly_psalm": "23",
+      "pericopes": {
+        "I": "Johannes 10,11-16.(27-30)",
+        "II": "1. Petrus 2,21b-25",
+        "III": "Hesekiel 34,1-2.(3-9.)10-16.31",
+        "IV": "Johannes 21,15-19",
+        "V": "1. Petrus 5,1-4",
+        "VI": "1. Mose 16,1-16"
+      },
+      "lessons": {
+        "old_testament": "Hesekiel 34,1-2.(3-9.)10-16.31",
+        "epistle": "1. Petrus 5,1-4",
+        "gospel": "Johannes 10,11-16.(27-30)"
+      }
+    }
+  ],
+  "2026-04-26": [
+    {
+      "summary": "Jubilate (3. Sonntag nach Ostern) - Die neue Schöpfung (4,.",
+      "date": "2026-04-26",
+      "sermon_series": "Predigtreihe II neu",
+      "liturgical_color": "weiß",
+      "sermon_text": "Joh 15,1-8",
+      "weekly_saying": "2. Korinther 5,17",
+      "weekly_hymns": "EG 110 oder 432",
+      "weekly_psalm": "66,1-9",
+      "offering": "Pflichtopfer für besondere gesamtkirchliche Aufgaben (EKD)",
+      "pericopes": {
+        "I": "Sprüche 8,22-36",
+        "II": "Johannes 15,1-8",
+        "III": "Apostelgeschichte 17,22-34",
+        "IV": "1. Mose 1,1-4a.(4b-25.)26-28.(29-30.)31a.(31b.);2,1-4a",
+        "V": "Johannes 16,16-23a",
+        "VI": "2. Korinther 4,14-18"
+      },
+      "lessons": {
+        "old_testament": "1. Mose 1,1-4a.(4b-25.)26-28.(29-30.)31a.(31b.);2,1-4a",
+        "epistle": "Apostelgeschichte 17,22-34",
+        "gospel": "Johannes 15,1-8"
+      }
+    }
+  ],
+  "2026-05-03": [
+    {
+      "summary": "Kantate (4. Sonntag nach Ostern) - Die singende Gemeinde",
+      "date": "2026-05-03",
+      "sermon_series": "Predigtreihe II neu",
+      "liturgical_color": "weiß",
+      "sermon_text": "2. Chr 5,2-5.(6-11.)12-14",
+      "weekly_saying": "Psalm 98,1",
+      "weekly_hymns": "EG 302 oder Wwdl+ 56",
+      "weekly_psalm": "98",
+      "pericopes": {
+        "I": "Apostelgeschichte 16,23-34",
+        "II": "2. Chronik 5,2-5.(6-11.)12-14",
+        "III": "Lukas 19,37-40",
+        "IV": "Kolosser 3,12-17",
+        "V": "1. Samuel 16,14-23",
+        "VI": "Offenbarung 15,2-4"
+      },
+      "lessons": {
+        "old_testament": "1. Samuel 16,14-23",
+        "epistle": "Kolosser 3,12-17",
+        "gospel": "Lukas 19,37-40"
+      }
+    }
+  ],
+  "2026-05-10": [
+    {
+      "summary": "Rogate (5. Sonntag nach Ostern) - Die betende Kirche",
+      "date": "2026-05-10",
+      "sermon_series": "Predigtreihe II neu",
+      "liturgical_color": "weiß",
+      "sermon_text": "Mt 6,5-15",
+      "weekly_saying": "Psalm 66,20",
+      "weekly_hymns": "EG 344 oder Wwdl+ 8",
+      "weekly_psalm": "95,1-7a",
+      "pericopes": {
+        "I": "Johannes 16,23b-28.(29-32.)33",
+        "II": "Matthäus 6,5-15",
+        "III": "Jesus Sirach 35,16-22a oder Daniel 9,4-5.16-19",
+        "IV": "Lukas 11,(1-4.)5-13",
+        "V": "1. Timotheus 2,1-6a",
+        "VI": "2. Mose 32,7-14"
+      },
+      "lessons": {
+        "old_testament": "2. Mose 32,7-14",
+        "epistle": "1. Timotheus 2,1-6a",
+        "gospel": "Lukas 11,(1-4.)5-13"
+      }
+    }
+  ],
+  "2026-05-14": [
+    {
+      "summary": "Christi Himmelfahrt - Die Herrschaft Christi",
+      "date": "2026-05-14",
+      "sermon_series": "Predigtreihe II neu",
+      "liturgical_color": "weiß",
+      "sermon_text": "Joh 17,20-26",
+      "weekly_saying": "Johannes 12,32",
+      "weekly_hymns": "EG 123 oder Wwdl+ 216",
+      "weekly_psalm": "47,2-10",
+      "pericopes": {
+        "I": "1. Könige 8,22-24.26-28",
+        "II": "Johannes 17,20-26",
+        "III": "Epheser 1,(15-20a.)20b-23",
+        "IV": "Daniel 7,1-3.(4-8.)9-14",
+        "V": "Lukas 24,(44-49.)50-53",
+        "VI": "Apostelgeschichte 1,3-11"
+      },
+      "lessons": {
+        "old_testament": "1. Könige 8,22-24.26-28",
+        "epistle": "Apostelgeschichte 1,3-11",
+        "gospel": "Lukas 24,(44-49.)50-53"
+      }
+    }
+  ],
+  "2026-05-17": [
+    {
+      "summary": "Exaudi (6. Sonntag nach Ostern) - Die wartende Gemeinde",
+      "date": "2026-05-17",
+      "sermon_series": "Predigtreihe II neu",
+      "liturgical_color": "weiß",
+      "sermon_text": "Jer 31,31-34",
+      "weekly_saying": "Johannes 12,32",
+      "weekly_hymns": "EG 128 oder 136",
+      "weekly_psalm": "27,1.7-14",
+      "pericopes": {
+        "I": "Epheser 3,14-21",
+        "II": "Jeremia 31,31-34",
+        "III": "Johannes 7,37-39",
+        "IV": "Römer 8,26-30",
+        "V": "1. Samuel 3,1-10",
+        "VI": "Johannes 16,5-15"
+      },
+      "lessons": {
+        "old_testament": "Jeremia 31,31-34",
+        "epistle": "Epheser 3,14-21",
+        "gospel": "Johannes 16,5-15"
+      }
+    }
+  ],
+  "2026-05-24": [
+    {
+      "summary": "Pfingstsonntag (Tag der Ausgießung des Heiligen Geistes) - Die Kirche des Geistes",
+      "date": "2026-05-24",
+      "sermon_series": "Predigtreihe II neu",
+      "liturgical_color": "Rot",
+      "sermon_text": "Apg 2,1-21",
+      "weekly_saying": "Sacharja 4,6b",
+      "weekly_hymns": "EG 126 oder Wwdl+ 104",
+      "weekly_psalm": "118,24-29",
+      "offering": "empfohlenes Opfer für aktuelle Notstände",
+      "pericopes": {
+        "I": "Johannes 14,15-19.(20-23a.)23b-27",
+        "II": "Apostelgeschichte 2,1-21",
+        "III": "1. Mose 11,1-9",
+        "IV": "Römer 8,1-2.(3-9.)10-11",
+        "V": "1. Korinther 2,12-16",
+        "VI": "Hesekiel 37,1-14"
+      },
+      "lessons": {
+        "old_testament": "1. Mose 11,1-9",
+        "epistle": "Apostelgeschichte 2,1-21",
+        "gospel": "Johannes 14,15-19.(20-23a.)23b-27"
+      }
+    }
+  ],
+  "2026-05-25": [
+    {
+      "summary": "Pfingstmontag und Pfingstwoche - Die Gaben des Geistes",
+      "date": "2026-05-25",
+      "sermon_series": "Predigtreihe II neu",
+      "liturgical_color": "Rot",
+      "sermon_text": "Joh 20,19-23",
+      "weekly_saying": "Sacharja 4,6b",
+      "weekly_hymns": "EG 129 oder 268",
+      "weekly_psalm": "118,24-29",
+      "pericopes": {
+        "I": "Matthäus 16,13-19",
+        "II": "Johannes 20,19-23",
+        "III": "1. Korinther 12,4-11",
+        "IV": "4. Mose 11,11-12.14-17.24-25.(26-30)",
+        "V": "Johannes 4,19-26",
+        "VI": "Epheser 4,(1-6.)11-15.(16)"
+      },
+      "lessons": {
+        "old_testament": "4. Mose 11,11-12.14-17.24-25.(26-30)",
+        "epistle": "1. Korinther 12,4-11",
+        "gospel": "Johannes 20,19-23"
+      }
+    }
+  ],
+  "2026-05-31": [
+    {
+      "summary": "Trinitatis (Tag der Heiligen Dreifaltigkeit) - Der dreieinige Gott",
+      "date": "2026-05-31",
+      "sermon_series": "Predigtreihe II neu",
+      "liturgical_color": "Weiß",
+      "sermon_text": "4. Mo 6,22-27",
+      "weekly_saying": "2. Korinther 13,13",
+      "weekly_hymns": "EG 139 oder 140",
+      "weekly_psalm": "113",
+      "pericopes": {
+        "I": "2. Korinther 13,11-13",
+        "II": "4. Mose 6,22-27",
+        "III": "Johannes 3,1-8.(9-13)",
+        "IV": "Römer 11,(32.)33-36",
+        "V": "Jesaja 6,1-8.(9-13)",
+        "VI": "Epheser 1,3-14"
+      }
+    }
+  ],
+  "2026-06-07": [
+    {
+      "summary": "1. Sonntag nach Trinitatis - Apostel und Propheten",
+      "date": "2026-06-07",
+      "sermon_series": "Predigtreihe II neu",
+      "liturgical_color": "Grün",
+      "sermon_text": "Apg 4,32-37",
+      "weekly_saying": "Lukas 10,16a",
+      "weekly_hymns": "EG 365 oder 382",
+      "weekly_psalm": "34,2-11",
+      "pericopes": {
+        "I": "Johannes 5,39-47",
+        "II": "Apostelgeschichte 4,32-37",
+        "III": "Jona 1,1–2,2.(3-10.)11",
+        "IV": "Lukas 16,19-31",
+        "V": "1. Johannes 4,(13-16a.)16b-21",
+        "VI": "Jeremia 23,16-29"
+      },
+      "lessons": {
+        "old_testament": "Jeremia 23,16-29",
+        "epistle": "1. Johannes 4,(13-16a.)16b-21",
+        "gospel": "Lukas 16,19-31"
+      }
+    }
+  ],
+  "2026-06-14": [
+    {
+      "summary": "2. Sonntag nach Trinitatis - Die Einladung",
+      "date": "2026-06-14",
+      "sermon_series": "Predigtreihe II neu",
+      "liturgical_color": "Grün",
+      "sermon_text": "Mt 11,25-30",
+      "weekly_saying": "Matthäus 11,28",
+      "weekly_hymns": "EG 213 oder 225",
+      "weekly_psalm": "36,6-10",
+      "pericopes": {
+        "I": "Jesaja 55,1-5",
+        "II": "Matthäus 11,25-30",
+        "III": "1. Korinther 14,1-12.(23-25)",
+        "IV": "Jona 3,1-10",
+        "V": "Lukas 14,(15.)16-24",
+        "VI": "Epheser 2,(11-16.)17-22"
+      },
+      "lessons": {
+        "old_testament": "Jesaja 55,1-5",
+        "epistle": "Epheser 2,(11-16.)17-22",
+        "gospel": "Lukas 14,(15.)16-24"
+      }
+    }
+  ],
+  "2026-06-21": [
+    {
+      "summary": "3. Sonntag nach Trinitatis - Das Wort von der Versöhnung",
+      "date": "2026-06-21",
+      "sermon_series": "Predigtreihe II neu",
+      "liturgical_color": "Grün",
+      "sermon_text": "Micha 7,18-20",
+      "weekly_saying": "Lukas 19,10",
+      "weekly_hymns": "EG 353 oder EG 611",
+      "weekly_psalm": "103,1-13",
+      "offering": "Pflichtopfer für die Diakonie in der Landeskirche (DWW)",
+      "note": "Tag der Diakonie",
+      "pericopes": {
+        "I": "1. Timotheus 1,12-17",
+        "II": "Micha 7,18-20",
+        "III": "Lukas 15,1-10",
+        "IV": "Hesekiel 18,1-4.21-24.30-32",
+        "V": "Jona (3,10.)4,1-11",
+        "VI": "Lukas 15,1-3.11b-32"
+      },
+      "lessons": {
+        "old_testament": "Micha 7,18-20",
+        "epistle": "1. Timotheus 1,12-17",
+        "gospel": "Lukas 15,1-3.11b-32"
+      }
+    }
+  ],
+  "2026-06-28": [
+    {
+      "summary": "4. Sonntag nach Trinitatis - Die Gemeinde der Sünder",
+      "date": "2026-06-28",
+      "sermon_series": "Predigtreihe II neu",
+      "liturgical_color": "Grün",
+      "sermon_text": "Röm 12,17-21",
+      "weekly_saying": "Galater 6,2",
+      "weekly_hymns": "EG 428 oder 495",
+      "weekly_psalm": "42,2-6",
+      "pericopes": {
+        "I": "Lukas 6,36-42",
+        "II": "Römer 12,17-21",
+        "III": "1. Mose 50,15-21",
+        "IV": "Johannes 8,3-11",
+        "V": "1. Petrus 3,8-17",
+        "VI": "1. Samuel 24,1-20"
+      },
+      "lessons": {
+        "old_testament": "1. Mose 50,15-21",
+        "epistle": "Römer 12,17-21",
+        "gospel": "Lukas 6,36-42"
+      }
+    }
+  ],
+  "2026-07-05": [
+    {
+      "summary": "5. Sonntag nach Trinitatis - Der rettende Ruf",
+      "date": "2026-07-05",
+      "sermon_series": "Predigtreihe II neu",
+      "liturgical_color": "Grün",
+      "sermon_text": "Lk 5,1-11",
+      "weekly_saying": "Epheser 2,8",
+      "weekly_hymns": "EG 241 oder 313",
+      "weekly_psalm": "73,1-3.8-10.23-26",
+      "pericopes": {
+        "I": "Matthäus 9,35–10,1.(2-4.)5-10",
+        "II": "Lukas 5,1-11",
+        "III": "1. Korinther 1,18-25",
+        "IV": "1. Mose 12,1-4a",
+        "V": "Johannes 1,35-51\\VI: 2. Korinther (11,18.23b-30);12,1-10"
+      },
+      "lessons": {
+        "old_testament": "1. Mose 12,1-4a",
+        "epistle": "1. Korinther 1,18-25",
+        "gospel": "Lukas 5,1-11"
+      }
+    }
+  ],
+  "2026-07-12": [
+    {
+      "summary": "6. Sonntag nach Trinitatis - Leben aus der Taufe",
+      "date": "2026-07-12",
+      "sermon_series": "Predigtreihe II neu",
+      "liturgical_color": "Grün",
+      "sermon_text": "5. Mo 7,6-12",
+      "weekly_saying": "Jesaja 43,1",
+      "weekly_hymns": "EG 200 oder fT 134",
+      "weekly_psalm": "139,1-12 oder 139,13-16.23-24",
+      "pericopes": {
+        "I": "1. Petrus 2,2-10",
+        "II": "5. Mose 7,6-12",
+        "III": "Matthäus 28,16-20",
+        "IV": "Römer 6,3-8.(9-11)",
+        "V": "Jesaja 43,1-7",
+        "VI": "Apostelgeschichte 8,26-39"
+      },
+      "lessons": {
+        "old_testament": "Jesaja 43,1-7",
+        "epistle": "Römer 6,3-8.(9-11)",
+        "gospel": "Matthäus 28,16-20"
+      }
+    }
+  ],
+  "2026-07-19": [
+    {
+      "summary": "7. Sonntag nach Trinitatis - Am Tisch des Herrn",
+      "date": "2026-07-19",
+      "sermon_series": "Predigtreihe II neu",
+      "liturgical_color": "Grün",
+      "sermon_text": "Hebr 13,1-3",
+      "weekly_saying": "Epheser 2,19",
+      "weekly_hymns": "EG 320 oder 418",
+      "weekly_psalm": "107,1-9",
+      "pericopes": {
+        "I": "Johannes 6,30-35",
+        "II": "Hebräer 13,1-3",
+        "III": "1. Könige 17,1-16",
+        "IV": "Johannes 6,1-15",
+        "V": "Apostelgeschichte 2,41-47",
+        "VI": "2. Mose 16,2-3.11-18"
+      },
+      "lessons": {
+        "old_testament": "2. Mose 16,2-3.11-18",
+        "epistle": "Apostelgeschichte 2,41-47",
+        "gospel": "Johannes 6,1-15"
+      }
+    }
+  ],
+  "2026-07-26": [
+    {
+      "summary": "8. Sonntag nach Trinitatis - Früchte des Geistes",
+      "date": "2026-07-26",
+      "sermon_series": "Predigtreihe II neu",
+      "liturgical_color": "Grün",
+      "sermon_text": "Joh 9,1-7",
+      "weekly_saying": "Epheser 5,8b.9",
+      "weekly_hymns": "EG 262/263 oder EG Wwdl+ 172",
+      "weekly_psalm": "48,2-3a.9-15",
+      "offering": "Pflichtopfer für das Ev. Werk für Diakonie und Entwicklung - Bereich Diakonie",
+      "pericopes": {
+        "I": "Jesaja 2,1-5",
+        "II": "Johannes 9,1-7",
+        "III": "1. Korinther 6,9-14.(15-18.)19-20",
+        "IV": "Markus 12,41-44",
+        "V": "Matthäus 5,13-16",
+        "VI": "Epheser 5,8b-14"
+      },
+      "lessons": {
+        "old_testament": "Jesaja 2,1-5",
+        "epistle": "Epheser 5,8b-14",
+        "gospel": "Matthäus 5,13-16"
+      }
+    }
+  ],
+  "2026-08-02": [
+    {
+      "summary": "9. Sonntag nach Trinitatis - Anvertraute Gaben",
+      "date": "2026-08-02",
+      "sermon_series": "Predigtreihe II neu",
+      "liturgical_color": "Grün",
+      "sermon_text": "Jer 1,4-10",
+      "weekly_saying": "Lukas 12,48",
+      "weekly_hymns": "EG 397 oder EG 659",
+      "weekly_psalm": "63,2-9",
+      "pericopes": {
+        "I": "Philipper 3,(4b-6.)7-14",
+        "II": "Jeremia 1,4-10",
+        "III": "Matthäus 7,24-27",
+        "IV": "Matthäus 25,14-30",
+        "V": "1. Könige 3,5-15.(16-28)\\VI: Matthäus 13,44-46"
+      },
+      "lessons": {
+        "old_testament": "Jeremia 1,4-10",
+        "epistle": "Philipper 3,(4b-6.)7-14",
+        "gospel": "Matthäus 13,44-46"
+      }
+    }
+  ],
+  "2026-08-09": [
+    {
+      "summary": "10. Sonntag nach Trinitatis - Israelsonntag: Kirche und Israel - Der Herr und sein Volk",
+      "date": "2026-08-09",
+      "sermon_series": "Predigtreihe II neu",
+      "liturgical_color": "Grün",
+      "sermon_text": "Röm 11,25-32",
+      "weekly_saying": "Psalm 33,12",
+      "weekly_hymns": "EG 290 oder 429",
+      "weekly_psalm": "122",
+      "offering": "empfohlenes Opfer: Israelsonntag",
+      "pericopes": {
+        "I": "Markus 12,28-34",
+        "II": "Römer 11,25-32",
+        "III": "2. Mose 19,1-6",
+        "IV": "Matthäus 5,17-20",
+        "V": "5. Mose 4,5-20",
+        "VI": "Sacharja 8,20-23"
+      },
+      "lessons": {
+        "old_testament": "2. Mose 19,1-6",
+        "epistle": "Römer 11,25-32",
+        "gospel": "Markus 12,28-34"
+      }
+    },
+    {
+      "summary": "10. Sonntag nach Trinitatis - Israelsonntag: Gedenktag der Zerstörung Jerusalem - Der Herr und sein Volk",
+      "date": "2026-08-09",
+      "sermon_series": "Predigtreihe II neu",
+      "liturgical_color": "Violett",
+      "sermon_text": "Röm 9,1-5",
+      "weekly_saying": "Psalm 33,12",
+      "weekly_hymns": "EG 144 oder 237",
+      "weekly_psalm": "122",
+      "offering": "empfohlenes Opfer: Israelsonntag",
+      "pericopes": {
+        "I": "Lukas 19,41-48",
+        "II": "Römer 9,1-5",
+        "III": "Jesaja 27,2-9",
+        "IV": "Klagelieder 5",
+        "V": "Römer 11,17-24",
+        "VI": "5. Mose 30,1-6.(7-10)"
+      },
+      "lessons": {
+        "old_testament": "Jesaja 27,2-9",
+        "epistle": "Römer 9,1-5",
+        "gospel": "Lukas 19,41-48"
+      }
+    }
+  ],
+  "2026-08-16": [
+    {
+      "summary": "11. Sonntag nach Trinitatis - Pharisäer und Zöllner",
+      "date": "2026-08-16",
+      "sermon_series": "Predigtreihe II neu",
+      "liturgical_color": "Grün",
+      "sermon_text": "Lk 18,9-14",
+      "weekly_saying": "1. Petrus 5,5b",
+      "weekly_hymns": "EG 299 oder EG 589",
+      "weekly_psalm": "145,1-2.14.17-21",
+      "pericopes": {
+        "I": "Hiob 23",
+        "II": "Lukas 18,9-14",
+        "III": "Epheser 2,4-10",
+        "IV": "2. Samuel 12,1-10.13-15a",
+        "V": "Lukas 7,36-50",
+        "VI": "Galater 2,16-21"
+      },
+      "lessons": {
+        "old_testament": "2. Samuel 12,1-10.13-15a",
+        "epistle": "Epheser 2,4-10",
+        "gospel": "Lukas 18,9-14"
+      }
+    }
+  ],
+  "2026-08-23": [
+    {
+      "summary": "12. Sonntag nach Trinitatis - Die große Krankenheilung",
+      "date": "2026-08-23",
+      "sermon_series": "Predigtreihe II neu",
+      "liturgical_color": "Grün",
+      "sermon_text": "1. Kor 3,9-17",
+      "weekly_saying": "Jesaja 42,3a",
+      "weekly_hymns": "EG 289 oder EG 656",
+      "weekly_psalm": "147,1-6.11",
+      "offering": "Pflichtopfer Ökumene und Auslandsarbeit (EKD)",
+      "pericopes": {
+        "I": "Apostelgeschichte 3,1-10",
+        "II": "1. Korinther 3,9-17",
+        "III": "Markus 7,31-37",
+        "IV": "Apostelgeschichte 9,1-20",
+        "V": "Jesaja 29,17-24",
+        "VI": "Lukas 13,10-17"
+      },
+      "lessons": {
+        "old_testament": "Jesaja 29,17-24",
+        "epistle": "Apostelgeschichte 3,1-10",
+        "gospel": "Markus 7,31-37"
+      }
+    }
+  ],
+  "2026-08-30": [
+    {
+      "summary": "13. Sonntag nach Trinitatis - Der barmherzige Samariter",
+      "date": "2026-08-30",
+      "sermon_series": "Predigtreihe II neu",
+      "liturgical_color": "Grün",
+      "sermon_text": "Apg 6,1-7",
+      "weekly_saying": "Matthäus 25,40b",
+      "weekly_hymns": "EG 412 oder EG Wwdl+ 86",
+      "weekly_psalm": "112",
+      "pericopes": {
+        "I": "Markus 3,31-35",
+        "II": "Apostelgeschichte 6,1-7",
+        "III": "1. Mose 4,1-16a",
+        "IV": "Lukas 10,25-37",
+        "V": "1. Johannes 4,7-12",
+        "VI": "3. Mose 19,1-3.13-18.33-34"
+      },
+      "lessons": {
+        "old_testament": "3. Mose 19,1-3.13-18.33-34",
+        "epistle": "1. Johannes 4,7-12",
+        "gospel": "Lukas 10,25-37"
+      }
+    }
+  ],
+  "2026-09-06": [
+    {
+      "summary": "14. Sonntag nach Trinitatis - Der dankbare Samariter",
+      "date": "2026-09-06",
+      "sermon_series": "Predigtreihe II neu",
+      "liturgical_color": "Grün",
+      "sermon_text": "Lk 19,1-10",
+      "weekly_saying": "Psalm 103,2",
+      "weekly_hymns": "EG 333 oder Wwdl+ 68",
+      "weekly_psalm": "146",
+      "pericopes": {
+        "I": "1. Mose 28,10-19a.(19b-22)",
+        "II": "Lukas 19,1-10",
+        "III": "1. Thessalonicher 5,14-24",
+        "IV": "Jesaja 12,1-6",
+        "V": "Lukas 17,11-19",
+        "VI": "Römer 8,14-17"
+      },
+      "lessons": {
+        "old_testament": "Mose 28,10-19a.(19b-22)",
+        "epistle": "Römer 8,14-17",
+        "gospel": "Lukas 17,11-19"
+      }
+    }
+  ],
+  "2026-09-13": [
+    {
+      "summary": "15. Sonntag nach Trinitatis - Irdische Güter",
+      "date": "2026-09-13",
+      "sermon_series": "Predigtreihe II neu",
+      "liturgical_color": "Grün",
+      "sermon_text": "1. Mose 2,4b-9.(10-14.)15.(18-25)",
+      "weekly_saying": "1. Petrus 5,7",
+      "weekly_hymns": "EG 369 oder 427",
+      "weekly_psalm": "127,1-2",
+      "offering": "empfohlenes Opfer für die Jugendarbeit",
+      "pericopes": {
+        "I": "1. Petrus 5,5b-11",
+        "II": "1. Mose 2,4b-9.(10-14.)15.(18-25)",
+        "III": "Lukas 17,5-6",
+        "IV": "Galater 5,25–6,10",
+        "V": "1. Mose 15,1-6",
+        "VI": "Matthäus 6,25-34"
+      }
+    }
+  ],
+  "2026-09-29": [
+    {
+      "summary": "Michaelistag - Tag des Erzengels Michael und aller Engel",
+      "date": "2026-09-29",
+      "sermon_series": "Predigtreihe II neu",
+      "liturgical_color": "Weiß",
+      "sermon_text": "Ofb. 12,7-12",
+      "weekly_saying": "Psalm 34,8",
+      "weekly_hymns": "EG 142oder 331",
+      "weekly_psalm": "103,19-22",
+      "offering": "empfohlenes Opfer für die Jugendarbeit"
+    }
+  ],
+  "2026-09-20": [
+    {
+      "summary": "16. Sonntag nach Trinitatis",
+      "date": "2026-09-20",
+      "sermon_series": "Predigtreihe II neu",
+      "liturgical_color": "Grün",
+      "sermon_text": "2. Tim 1,7-10",
+      "weekly_saying": "2. Timotheus 1,10b",
+      "weekly_hymns": "EG 115 oder EG 665",
+      "weekly_psalm": "68,4-7.20-21.35-36",
+      "pericopes": {
+        "I": "Johannes 11,1.(2.)3.17-27.(28-38a.)38b-45",
+        "II": "2. Timotheus 1,7-10",
+        "III": "Klagelieder 3,22-26.31-32",
+        "IV": "Lukas 7,11-17",
+        "V": "Hebräer 10,35-36.(37-38.)39",
+        "VI": "Psalm 16,(1-4.)5-11"
+      },
+      "lessons": {
+        "old_testament": "Klagelieder 3,22-26.31-32",
+        "epistle": "2. Timotheus 1,7-10",
+        "gospel": "Johannes 11,1.(2.)3.17-27.(28-38a.)38b-45"
+      }
+    }
+  ],
+  "2026-10-04": [
+    {
+      "summary": "Erntedankfest - Segen und Dank",
+      "date": "2026-10-04",
+      "sermon_series": "Predigtreihe II neu",
+      "liturgical_color": "Grün",
+      "sermon_text": "Mk 8,1-9",
+      "daily_saying": "Ps 145,15",
+      "daily_hymns": "EG 502 oder Wwdl+ 106",
+      "counting_day": "Zählsonntag"
+    },
+    {
+      "summary": "18. Sonntag nach Trinitatis - Das vornehmste Gebot",
+      "date": "2026-10-04",
+      "sermon_series": "Predigtreihe II neu",
+      "liturgical_color": "Grün",
+      "sermon_text": "5. Mo 30,11-14",
+      "weekly_saying": "1. Johannes 4,21",
+      "weekly_hymns": "EG 414 oder EG 658",
+      "weekly_psalm": "1",
+      "pericopes": {
+        "I": "Jakobus 2,14-26",
+        "II": "5. Mose 30,11-14",
+        "III": "Markus 10,17-27",
+        "IV": "Epheser 5,15-20",
+        "V": "2. Mose 20,1-17",
+        "VI": "1. Petrus 4,7-11"
+      },
+      "lessons": {
+        "old_testament": "2. Mose 20,1-17",
+        "epistle": "Epheser 5,15-20",
+        "gospel": "Markus 10,17-27"
+      }
+    }
+  ],
+  "2026-09-27": [
+    {
+      "summary": "17. Sonntag nach Trinitatis - Sieghafter Glaube",
+      "date": "2026-09-27",
+      "sermon_series": "Predigtreihe II neu",
+      "liturgical_color": "Grün",
+      "sermon_text": "Mt 15,21-28",
+      "weekly_saying": "1. Johannes 5,4c",
+      "weekly_hymns": "EG 346 oder Wwdl+ 70)",
+      "weekly_psalm": "138",
+      "pericopes": {
+        "I": "Josua 2,1-21",
+        "II": "Matthäus 15,21-28",
+        "III": "Römer 10,9-17.(18)",
+        "IV": "Jesaja 49,1-6",
+        "V": "Markus 9,17-27\\VI: Galater 3,26-29"
+      },
+      "lessons": {
+        "old_testament": "Jesaja 49,1-6",
+        "epistle": "Römer 10,9-17.(18)",
+        "gospel": "Matthäus 15,21-28"
+      }
+    }
+  ],
+  "2026-10-18": [
+    {
+      "summary": "Kirchweihfest (3. Sonntag im Oktober)",
+      "date": "2026-10-18",
+      "sermon_series": "Predigtreihe II neu",
+      "liturgical_color": "Rot",
+      "sermon_text": "Lk 19,2-10",
+      "daily_saying": "Ps 84,2-3",
+      "daily_hymns": "EG 245oder EG 264",
+      "daily_psalm": "84"
+    },
+    {
+      "summary": "20. Sonntag nach Trinitatis - Die Ordnungen Gottes",
+      "date": "2026-10-18",
+      "sermon_series": "Predigtreihe II neu",
+      "liturgical_color": "Grün",
+      "sermon_text": "Mk 2,23-28",
+      "weekly_saying": "Micha 6,8",
+      "weekly_hymns": "EG 295 oder 408",
+      "weekly_psalm": "119,1-8.17-18",
+      "offering": "Pflichtopfer für Diakonie in der Landeskirche (DWW)",
+      "pericopes": {
+        "I": "1. Mose 8,18-22;9,12-17",
+        "II": "Markus 2,23-28\\III: Prediger 12,1-7",
+        "IV": "Hoheslied 8,6b-7",
+        "V": "Markus 10,2-9.(10-12.)13-16",
+        "VI": "2. Korinther 3,3-6.(7-9)"
+      },
+      "lessons": {
+        "old_testament": "1. Mose 8,18-22;9,12-17",
+        "epistle": "2. Korinther 3,3-6.(7-9)",
+        "gospel": "Markus 10,2-9.(10-12.)13-16"
+      }
+    }
+  ],
+  "2026-10-11": [
+    {
+      "summary": "19. Sonntag nach Trinitatis - Heilung an Leib und Seele",
+      "date": "2026-10-11",
+      "sermon_series": "Predigtreihe II neu",
+      "liturgical_color": "Grün",
+      "sermon_text": "Eph 4,22-32",
+      "weekly_saying": "Jeremia 17,14",
+      "weekly_hymns": "EG 324 oder Wwdl+ 116",
+      "weekly_psalm": "32,1-7",
+      "pericopes": {
+        "I": "Johannes 5,1-16",
+        "II": "Epheser 4,22-32",
+        "III": "Jesaja 38,9-20",
+        "IV": "Markus 2,1-12",
+        "V": "Jakobus 5,13-16",
+        "VI": "2. Mose 34,4-10"
+      },
+      "lessons": {
+        "old_testament": "2. Mose 34,4-10",
+        "epistle": "Jakobus 5,13-16",
+        "gospel": "Markus 2,1-12"
+      }
+    }
+  ],
+  "2026-10-31": [
+    {
+      "summary": "Reformationstag - Gedenktag der Reformation: Gnade und Glaube",
+      "date": "2026-10-31",
+      "sermon_series": "Predigtreihe II neu",
+      "liturgical_color": "Rot",
+      "sermon_text": "Mt 10,26b-33",
+      "daily_saying": "1. Kor 3,11",
+      "daily_hymns": "EG 341 oder EG 360",
+      "weekly_psalm": "46,2-12"
+    }
+  ],
+  "2026-11-01": [
+    {
+      "summary": "Reformationsfest - Gnade und Glaube",
+      "date": "2026-11-01",
+      "sermon_series": "Predigtreihe II neu",
+      "liturgical_color": "Rot",
+      "sermon_text": "Mt. 10,26b-33",
+      "daily_saying": "1. Kor 3,11",
+      "daily_hymns": "EG 341 oder EG 360",
+      "weekly_psalm": "46,2-12",
+      "offering": "Pflichtopfer für Bibelverbreitung weltweit"
+    },
+    {
+      "summary": "22. Sonntag nach Trinitatis - In Gottes Schuld",
+      "date": "2026-11-01",
+      "sermon_series": "Predigtreihe II",
+      "liturgical_color": "Grün",
+      "sermon_text": "Römer 7,14-25a",
+      "weekly_saying": "Psalm 130,4",
+      "weekly_hymns": "EG 251 oder Wwdl+ 93",
+      "weekly_psalm": "143",
+      "offering": "Pflichtopfer für die Bibelverbreitung",
+      "pericopes": {
+        "I": "Matthäus 18,21-35",
+        "II": "Römer 7,14-25a",
+        "III": "Jesaja 44,21-23",
+        "IV": "Matthäus 18,15-20",
+        "V": "1. Johannes 2,12-14",
+        "VI": "Micha 6,1-8"
+      },
+      "lessons": {
+        "old_testament": "Jesaja 44,21-23",
+        "epistle": "Römer 7,14-25a",
+        "gospel": "Matthäus 18,21-35"
+      }
+    }
+  ],
+  "2026-10-25": [
+    {
+      "summary": "21. Sonntag nach Trinitatis - Die geistliche Waffenrüstung",
+      "date": "2026-10-25",
+      "sermon_series": "Predigtreihe II neu",
+      "liturgical_color": "Grün",
+      "sermon_text": "Jer 29,1.4-7.(8-9.)10-14",
+      "weekly_saying": "Römer 12,21",
+      "weekly_hymns": "EG 377 oder 657",
+      "weekly_psalm": "19",
+      "pericopes": {
+        "I": "Epheser 6,10-17",
+        "II": "Jeremia 29,1.4-7.(8-9.)10-14\\III: Matthäus 10,34-39",
+        "IV": "Johannes 15,9-12.(13-17)",
+        "V": "1. Mose 13,1-12.(13-18)",
+        "VI": "Matthäus 5,38-48"
+      },
+      "lessons": {
+        "old_testament": "Jeremia 29,1-7.(8-9.)10-14",
+        "epistle": "Epheser 6,10-17",
+        "gospel": "Matthäus 5,38-48"
+      }
+    }
+  ],
+  "2026-11-08": [
+    {
+      "summary": "Drittletzter Sonntag des Kirchenjahres - Mitten unter uns",
+      "date": "2026-11-08",
+      "sermon_series": "Predigtreihe II neu",
+      "liturgical_color": "Grün",
+      "sermon_text": "1. Thess 5,1-6.(7-11)",
+      "weekly_saying": "Matthäus 5,9",
+      "weekly_hymns": "EG 152 oder 426",
+      "weekly_psalm": "85,9-14",
+      "pericopes": {
+        "I": "Lukas 6,27-38",
+        "II": "1. Thessalonicher 5,1-6.(7-11)",
+        "III": "Psalm 85",
+        "IV": "Lukas 17,20-24.(25-30)",
+        "V": "Römer 8,18-25",
+        "VI": "Micha 4,1-5.(7b)"
+      },
+      "lessons": {
+        "old_testament": "Micha 4,1-5.(7b)",
+        "epistle": "Römer 8,18-25",
+        "gospel": "Lukas 17,20-24.(25-30)"
+      }
+    }
+  ],
+  "2026-11-15": [
+    {
+      "summary": "Vorletzter Sonntag des Kirchenjahres (Volkstrauertag)",
+      "date": "2026-11-15",
+      "sermon_series": "Predigtreihe II neu",
+      "liturgical_color": "Grün",
+      "sermon_text": "Lk 16,1-8.(9)",
+      "weekly_saying": "2. Korinther 5,10a",
+      "weekly_hymns": "EG 149 oder 378",
+      "weekly_psalm": "50,1-6.14-15.23",
+      "offering": "empfohlenes Opfer Friedensdienste",
+      "pericopes": {
+        "I": "Hiob 14,1-6.(7-12.)13.(14.)15-17",
+        "II": "Lukas 16,1-8.(9)",
+        "III": "2. Korinther 5,1-10",
+        "IV": "Lukas 18,1-8",
+        "V": "Matthäus 25,31-46",
+        "VI": "Römer 14,(1-6.)7-13"
+      },
+      "lessons": {
+        "old_testament": "Hiob 14,1-6.(7-12.)13.(14.)15-17",
+        "epistle": "Römer 14,(1-6.)7-13",
+        "gospel": "Matthäus 25,31-46"
+      }
+    }
+  ],
+  "2026-11-18": [
+    {
+      "summary": "Buß- und Bettag - Ruf zur Umkehr",
+      "date": "2026-11-18",
+      "sermon_series": "Predigtreihe II neu",
+      "liturgical_color": "Violett",
+      "sermon_text": "Jes 1,10-18",
+      "weekly_saying": "Sprüche 14,34",
+      "weekly_hymns": "EG 299 oder 428",
+      "weekly_psalm": "130",
+      "pericopes": {
+        "I": "Römer 2,1-11",
+        "II": "Jesaja 1,10-18",
+        "III": "Matthäus 7,12-20",
+        "IV": "Offenbarung 3,1-6",
+        "V": "Hesekiel 22,23-31",
+        "VI": "Lukas 13,(1-5.)6-9"
+      },
+      "lessons": {
+        "old_testament": "Jesaja 1,10-18",
+        "epistle": "Römer 2,1-11",
+        "gospel": "Lukas 13,(1-5.)6-9"
+      }
+    }
+  ],
+  "2026-11-22": [
+    {
+      "summary": "Totensonntag - Gedenktag der Entschlafenen: Die Hoffnung des ewigen Lebens",
+      "date": "2026-11-22",
+      "sermon_series": "Predigtreihe II neu",
+      "liturgical_color": "Weiß",
+      "sermon_text": "1. Kor 15,35-38.42-44a",
+      "weekly_saying": "Psalm 90,12",
+      "weekly_hymns": "EG 526 oder 533",
+      "weekly_psalm": "90,1-14",
+      "pericopes": {
+        "I": "Johannes 5,24-29",
+        "II": "1. Korinther 15,35-38.42-44a",
+        "III": "5. Mose 34,1-8",
+        "IV": "Johannes 6,37-40",
+        "V": "Daniel 12,1b-3",
+        "VI": "Psalm 90,1-14"
+      },
+      "lessons": {
+        "old_testament": "5. Mose 34,1-8",
+        "epistle": "1. Korinther 15,35-38.42-44a",
+        "gospel": "Johannes 5,24-29"
+      }
+    },
+    {
+      "summary": "Ewigkeitssonntag - Die ewige Stadt",
+      "date": "2026-11-22",
+      "sermon_series": "Predigtreihe II neu",
+      "liturgical_color": "Weiß",
+      "sermon_text": "Ofb 21,1-7",
+      "weekly_saying": "Lukas 12,35",
+      "weekly_hymns": "EG 147+535 oder 153",
+      "weekly_psalm": "126",
+      "pericopes": {
+        "I": "Matthäus 25,1-13",
+        "II": "Offenbarung 21,1-7",
+        "III": "Jesaja 65,17-19.(20-22.)23-25",
+        "IV": "Markus 13,28-37",
+        "V": "2. Petrus 3,(3-7.)8-13",
+        "VI": "Psalm 126"
+      },
+      "lessons": {
+        "old_testament": "Jesaja 65,17-19.(20-22.)23-25",
+        "epistle": "Offenbarung 21,1-7",
+        "gospel": "Matthäus 25,1-13"
+      }
+    }
+  ]
+}

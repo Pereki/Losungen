@@ -1,4 +1,4 @@
-import type { Devotion } from './models'
+import type { Devotion, LiturgicalDay } from './models'
 
 const BASE_URL = '/api'
 
@@ -22,6 +22,22 @@ export async function getDevotionOf (date: string): Promise<Devotion> {
   const response = await fetch(`${BASE_URL}/devotion/${date}`)
   if (!response.ok) {
     throw new Error(`Failed to fetch devotion: ${response.status}`)
+  }
+  return response.json()
+}
+
+export async function getLiturgicalDay (date: string): Promise<LiturgicalDay[]> {
+  const response = await fetch(`${BASE_URL}/liturgical-day/${date}`)
+  if (!response.ok) {
+    throw new Error(`Failed to fetch liturgical day: ${response.status}`)
+  }
+  return response.json()
+}
+
+export async function getAllLiturgicalDays (): Promise<LiturgicalDay[][]> {
+  const response = await fetch(`${BASE_URL}/liturgical-days`)
+  if (!response.ok) {
+    throw new Error(`Failed to fetch all liturgical days: ${response.status}`)
   }
   return response.json()
 }

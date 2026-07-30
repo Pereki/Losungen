@@ -47,5 +47,9 @@ fly deploy
 - Chrono (Datum/Zeit)
 
 ---
+## AI Disclaimer
+
+KI kann benutzt werden, aber bitte denkt daran, das es hier nicht darum geht möglichst viel in kurzer Zeit zu schaffen. Um Menschen zu erreichen sollten Menschen Aufgaben übernehmen, nicht KI.
+
 
 **Datenquelle:** Die Täglichen Losungen® © Evangelische Brüder-Unität – Herrnhuter Brüdergemeine. Bibeltexte: Lutherbibel 2017 © Deutsche Bibelgesellschaft.

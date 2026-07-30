@@ -1,0 +1,617 @@
+﻿BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:https://www.elk-wue.de/
+METHOD: Publish
+BEGIN:VEVENT
+SUMMARY:1. Advent  - Der kommende Herr
+DESCRIPTION: Predigtreihe II neu\nLiturgische Farbe: Violett\nPredigttext: Röm 13,8-12\n\nWochenspruch: Sacharja 9,9a\nWochenlieder: EG 4 oder 11\n\nWochenpsalm: 24\nPflichtopfer für das Gustav-Adolf-Werk\n\nI: Matthäus 21,1-11\nII: Römer 13,8-12\nIII: Sacharja 9,9-10\nIV: Jeremia 23,5-8\nV: Offenbarung 3,14-22\nVI: Psalm 24\n\nLesungen:\n1. AT: Sacharja 9,9-10\n2. Epistel: Römer 13,8-12\n3. Evangelium: Matthäus 21,1-11\n\nZählsonntag
+CLASS:PUBLIC
+DTSTART;VALUE=DATE: 20251130
+DTSTAMP:20181026T000000Z
+URL;VALUE=URI:https://www.elk-wue.de/glauben/kirchenjahr/
+End: VEVENT
+BEGIN:VEVENT
+SUMMARY:2. Advent - Der kommende Erlöser
+DESCRIPTION: Predigtreihe II neu\nLiturgische Farbe: Violett\nPredigttext: Lk 21,25-33\n\nWochenspruch: Lukas 21,28\nWochenlieder: EG 7 oder Wwdl+ 37\n\nWochenpsalm: 80,2.3b.5-6.15-16.19-20\n\nI: Jesaja 35,3-10\nII: Lukas 21,25-33\nIII: Jakobus 5,7-8.(9-11)\nIV: Jesaja 63,15–64,3\nV: Hoheslied 2,8-13\nVI: Johannes 3,7-13\n\nLesungen:\n1. AT: Jesaja 63,15–64,3\n2. Epistel: Jakobus 5,7-8.(9-11)\n3. Evangelium: Lukas 21,25-33\n
+CLASS:PUBLIC
+DTSTART;VALUE=DATE: 20251207
+DTSTAMP:20181026T000000Z
+URL;VALUE=URI:https://www.elk-wue.de/glauben/kirchenjahr/
+End: VEVENT
+BEGIN:VEVENT
+SUMMARY:3. Advent - Der Vorläufer des Herrn
+DESCRIPTION: Predigtreihe II neu\nLiturgische Farbe: Violett\nPredigttext: Lk 3,(1-2.)3-14.(15-17.)18.(19-20)\n\nWochenspruch: Jesaja 40,3.10\nWochenlieder: EG 10 oder 16\n\nWochenpsalm: 85,2-8 oder Lukas 1,68-79\n\nI: Römer 15,4-13\nII: Lukas 3,/1-2.)3-14.(15-17.)18.(19-20)\nIII: Lukas 1,67-79\nIV: 1. Korinther 4,1-5\nV: Jesaja 40,1-11\nVI:  Matthäus 11,2-10\n\nLesungen:\n1. AT: Jesaja 40,1-11\n2. Epistel: 1. Korinther 4,1-5\n3. Evangelium: Lukas 1,67-79\n
+CLASS:PUBLIC
+DTSTART;VALUE=DATE: 20251214
+DTSTAMP:20181026T000000Z
+URL;VALUE=URI:https://www.elk-wue.de/glauben/kirchenjahr/
+End: VEVENT
+BEGIN:VEVENT
+SUMMARY:4. Advent - Die nahende Freude
+DESCRIPTION: Predigtreihe II neu\nLiturgische Farbe: Violett\nPredigttext: 2. Kor 1,18-22\n\nWochenspruch: Philipper 4,4-5b\nWochenlieder: EG 9 oder 19\n\nWochenpsalm: 102,13-14.16-18.20-23 oder Lukas 1,46-55\n\nI: Lukas 1,(26-38.)39-56\nII: 2. Korinther 1,18-22\nIII: 1. Mose 18,1-2.9-15\nIV: Lukas 1,26-38.(39-56)\nV: Philipper 4,4-7\nVI: Jesaja 62,1-5\n\nLesungen:\n1. AT: Jesaja 62,1-5\n2. Epistel: Philipper 4,4-7\n3. Evangelium: Lukas 1,(26-38.)39-56\n
+CLASS:PUBLIC
+DTSTART;VALUE=DATE: 20251221
+DTSTAMP:20181026T000000Z
+URL;VALUE=URI:https://www.elk-wue.de/glauben/kirchenjahr/
+End: VEVENT
+BEGIN:VEVENT
+SUMMARY:Christvesper - Das Licht der Welt
+DESCRIPTION: Predigtreihe II neu\nLiturgische Farbe: weiß\nPredigttext: Hes 37,24-28\n\nWochenspruch: Lukas 2,10b.11\nWochenlieder: EG 24 oder 27\n\nWochenpsalm: 96,1-3.7-13\n\nI: Jesaja 9,1-6 oder Micha 5,1-4a.; Jesaja 9,5-6; Jesaja 11,1-2; Jeremia 23,5-6; Jeremia 31,31-34\nII: Hesekiel 37,24-28\nIII: Jesaja 11,1-10\nIV: Micha 5,1-4a\nV: Lukas 2,1-20\nVI: Galater 4,4-7\n\nLesungen:\n1. AT: Jesaja 9,1-6\n2. Epistel: Galater 4,4-7\n3. Evangelium: Lukas 2,1-20\n\Zähltag
+CLASS:PUBLIC
+DTSTART;VALUE=DATE: 20251224
+DTSTAMP:20181026T000000Z
+URL;VALUE=URI:https://www.elk-wue.de/glauben/kirchenjahr/
+End: VEVENT
+BEGIN:VEVENT
+SUMMARY:Christnacht - Der Sohn Davids
+DESCRIPTION: Predigtreihe II neu\nLiturgische Farbe: weiß\nPredigttext: Sach 2,14-17\n\nWochenspruch: Lukas 2,10b.11\nWochenlieder: EG 30 oder 37\n\nWochenpsalm: 96,1-3.7-13\n\nI: 1. Timotheus 3,16\nII: Sacharja 2,14-17\nIII: Matthäus 1,18-25\nIV: Titus 2,11-14\nV: Hesekiel 34,23-31\nVI: Lukas 2,1-10\n\nLesungen:\n1. AT: Sacharja 2,14-17\n2. Epistel: 1. Timotheus 3,16\n3. Evangelium: Lukas 2,1-10\n\nZähltag
+CLASS:PUBLIC
+DTSTART;VALUE=DATE: 20251224
+DTSTAMP:20181026T000000Z
+URL;VALUE=URI:https://www.elk-wue.de/glauben/kirchenjahr/
+End: VEVENT
+BEGIN:VEVENT
+SUMMARY:Christfest I - Das Kind in der Krippe
+DESCRIPTION: Predigtreihe II neu\nLiturgische Farbe: weiß\nPredigttext: Titus 3,4-7\n\nWochenspruch: Johannes 1,14a\nWochenlieder: EG 23 oder 45\n\nWochenpsalm: 96,1-3.7-13\nPflichtopfer für Brot für die Welt\n\nI: Johannes 1,1-5.9-14.(16-18)\nII: Titus 3,4-7\nIII: Jesaja 52,7-10\nIV: 1. Johannes 3,1-2.(3-5)\nV: Kolosser 2,3.(4-5.)6-10\nVI: 2. Mose 2,1-10\n\nLesungen:\n1. AT: Jesaja 52,7-10\n2. Epistel: Titus 3,4-7\n3. Evangelium: Johannes 1,1-5.9-14.(16-18)\n\nZähltag
+CLASS:PUBLIC
+DTSTART;VALUE=DATE: 20251225
+DTSTAMP:20181026T000000Z
+URL;VALUE=URI:https://www.elk-wue.de/glauben/kirchenjahr/
+End: VEVENT
+BEGIN:VEVENT
+SUMMARY:Christfest II - Die Menschwerdung Gottes
+DESCRIPTION: Predigtreihe II neu\nLiturgische Farbe: weiß\nPredigttext: Mt 1,18-25\n\nWochenspruch: Johannes 1,14a\nWochenlieder: EG 32 oder 39\n\nWochenpsalm: 96,1-3.7-13\n\nI: Römer 1,1-7\nII: Matthäus 1,18-25\nIII: Hebräer 1,1-4.(5-14)\nIV: Jesaja 7,10-14\nV: Matthäus 1,1-17\nVI: 2. Korinther 8,7-9\n\nLesungen:\n1. AT: Jesaja 7,10-14\n2. Epistel: Hebräer 1,1-4.(5-14)\n3. Evangelium: Matthäus 1,18-25\n
+CLASS:PUBLIC
+DTSTART;VALUE=DATE: 20251226
+DTSTAMP:20181026T000000Z
+URL;VALUE=URI:https://www.elk-wue.de/glauben/kirchenjahr/
+End: VEVENT
+BEGIN:VEVENT
+SUMMARY:1. Sonntag nach dem Christfest - Simeon
+DESCRIPTION: Predigtreihe II neu\nLiturgische Farbe: weiß\nPredigttext: Hiob 42,1-6\n\nWochenspruch: Johannes 1,14b\nWochenlieder: EG 34 oder 36\n\nWochenpsalm: 71,1-3.12.14-18\n\nI: Matthäus 2,13-18.(19-23)\nII: Hiob 42,1-6\nIII: Lukas 2,(22-24.)25-38.(39-40)\nIV: 1. Johannes 1,1-4\nV: Jesaja 49,13-16\nVI: Johannes 12,44-50\n\nLesungen:\n1. AT: Jesaja 49,13-16\n2. Epistel: 1. Johannes 1,1-4\n3. Evangelium: Lukas 2,(22-24.)25-38.(39-40)\n
+CLASS:PUBLIC
+DTSTART;VALUE=DATE: 20251228
+DTSTAMP:20181026T000000Z
+URL;VALUE=URI:https://www.elk-wue.de/glauben/kirchenjahr/
+End: VEVENT
+BEGIN:VEVENT
+SUMMARY:Altjahrabend - Zeit vor Gott
+DESCRIPTION: Predigtreihe II neu\nLiturgische Farbe: weiß\nPredigttext: Hebr 13,8-9b\n\nWochenspruch: Psalm 31,16a\nWochenlieder: EG 58 oder 65\n\nWochenpsalm: 121\n\nI: Jesaja 51,4-6\nII: Hebräer 13,8-9b\nIII: 2. Mose 13,20-22\nIV: Matthäus 13,24-30\nV: Römer 8,31b-39\nVI: Prediger 3,1-15\n\nLesungen:\n1. AT: : Prediger 3,1-15\n2. Epistel: Römer 8,31b-39\n3. Evangelium: Matthäus 13,24-30\n
+CLASS:PUBLIC
+DTSTART;VALUE=DATE: 20251231
+DTSTAMP:20181026T000000Z
+URL;VALUE=URI:https://www.elk-wue.de/glauben/kirchenjahr/
+End: VEVENT
+BEGIN:VEVENT
+SUMMARY:Neujahrstag - Der Weg mit Gott
+DESCRIPTION: Predigtreihe II neu\nLiturgische Farbe: weiß\nPredigttext: Joh 14,1-6\n\nWochenspruch: Hebräer 13,8\nWochenlieder: EG 64 oder 619\n\nWochenpsalm: 8,2-10\n\nI: Josua 1,1-9\nII: Johannes 14,1-6\nIII: Philipper 4,10-13.(14-20)\nIV: Sprüche 16,(1-8.)9\nV: Lukas 4,16-21\nVI: Jakobus 4,13-15\n\nLesungen:\n1. AT: Josua 1,1-9\n2. Epistel: Jakobus 4,13-15\n3. Evangelium: Lukas 4,16-21\n
+CLASS:PUBLIC
+DTSTART;VALUE=DATE: 20260101
+DTSTAMP:20181026T000000Z
+URL;VALUE=URI:https://www.elk-wue.de/glauben/kirchenjahr/
+End: VEVENT
+BEGIN:VEVENT
+SUMMARY:2. Sonntag nach dem Christfest - Der Gottessohn
+DESCRIPTION: Predigtreihe II neu\nLiturgische Farbe: weiß\nPredigttext: Jesaja 61,1-3.(4.9)10-11\n\nWochenspruch: Johannes 1,14b\nWochenlieder: EG 56 oder 73\n\nWochenpsalm: 100\n\nI: 1. Joh 5,11-13\nII: Jes 61,1-3.(4.9.)10-11\nIII: Lk 2,41-52\nIV: 1. Joh 5,11-13\nV: Jes 61,1-3.(4.9.)10-11\nVI: Lk 2,41-52\n\nLesungen:\n1. AT: Jesaja 61,1-11\n2. Epistel: 1. Johannes 5,11-13\n3. Evangelium: Lukas 2,41-52\n
+CLASS:PUBLIC
+DTSTART;VALUE=DATE: 20260104
+DTSTAMP:20181026T000000Z
+URL;VALUE=URI:https://www.elk-wue.de/glauben/kirchenjahr/
+End: VEVENT
+BEGIN:VEVENT
+SUMMARY:Epiphanias - Die Herrlichkeit Christi
+DESCRIPTION: Predigtreihe II neu\nLiturgische Farbe: weiß\nPredigttext: Eph 3,1-7\n\nWochenspruch: 1. Johannes 2,8b\nWochenlieder: EG 70 oder EG 540\n\nWochenpsalm: 72,1-3.10-12.17b-19\nPflichtopfer für die Weltmission\n\nI: Matthäus 2,1-12\nII: Epheser 3,1-7\nIII: Jesaja 60,1-6\nIV: Johannes 1,15-18\nV: 2. Korinther 4,3-6\nVI: 1. Könige 10,1-13\n\nLesungen:\n1. AT: Jesaja 60,1-6\n2. Epistel: Epheser 3,1-7\n3. Evangelium: Matthäus 2,1-12\n
+CLASS:PUBLIC
+DTSTART;VALUE=DATE: 20260106
+DTSTAMP:20181026T000000Z
+URL;VALUE=URI:https://www.elk-wue.de/glauben/kirchenjahr/
+End: VEVENT
+BEGIN:VEVENT
+SUMMARY:1. Sonntag nach Epiphanias - Taufe Jesu
+DESCRIPTION: Predigtreihe II neu\nLiturgische Farbe: weiß\nPredigttext: Mt 3,13-17\n\nWochenspruch: Römer 8,14\nWochenlieder: EG 410 oder 441\n\nWochenpsalm: 89,2-5.27-30\n\nI: Josua 3,5-11.17\nII: Matthäus 3,13-17\nIII: Römer 12,1-8\nIV: Jesaja 42,1-9\nV: Johannes 1,29-34\nVI: 1. Korinther 1,26-31\n\nLesungen:\n1. AT: Jesaja 42,1-9\n2. Epistel: Römer 12,1-8\n3. Evangelium: Matthäus 3,13-17\n
+CLASS:PUBLIC
+DTSTART;VALUE=DATE: 20260111
+DTSTAMP:20181026T000000Z
+URL;VALUE=URI:https://www.elk-wue.de/glauben/kirchenjahr/
+End: VEVENT
+BEGIN:VEVENT
+SUMMARY:2. Sonntag nach Epiphanias - Der Freudenmeister
+DESCRIPTION: Predigtreihe II neu\nLiturgische Farbe: weiß\nPredigttext: Jer 14,1.(2)3-4.(5-6.)7-9\n\nWochenspruch: Johannes 1,16\nWochenlieder: EG 74 oder 398\n\nWochenpsalm: 105,1-8\n\nI: Römer 12,9-16\nII: Jeremia 14,1.(2.)3-4.(5-6.)7-9\nIII: Johannes 2,1-11\nIV: 1. Korinther 2,1-10\nV: 2. Mose 33,18-23\nVI: Hebräer 12,12-18.(19-21.)22-25a\n\nLesungen:\n1. AT: 2. Mose 33,18-23\n2. Epistel: 1. Korinther 2,1-10\n3. Evangelium: Johannes 2,1-11\n
+CLASS:PUBLIC
+DTSTART;VALUE=DATE: 20260118
+DTSTAMP:20181026T000000Z
+URL;VALUE=URI:https://www.elk-wue.de/glauben/kirchenjahr/
+End: VEVENT
+BEGIN:VEVENT
+SUMMARY:3. Sonntag nach Epiphanias - Der Heiden Heiland
+DESCRIPTION: Predigtreihe II neu\nLiturgische Farbe: weiß\nPredigttext: Apg. 10,21-35\n\nWochenspruch: Lukas 13,29\nWochenlieder: EG 293 oder 597\n\nWochenpsalm: 86\n\nI: 1.Johannes 4,5-14\nII: Apostelgeschichte 10,21-35\nIII: Rut 1,1-19a\nIV: Matthäus 8,5-13\nV: Römer 1,13-17\nVI: 2. Könige 5,(1-8.)9-15.(16-18.)19a\n\nLesungen:\n1. AT: 2. Könige 5,(1-8.)9-15.(16-18.)19a\n2. Epistel: Römer 1,13-17\n3. Evangelium: Matthäus 8,5-13\n
+CLASS:PUBLIC
+DTSTART;VALUE=DATE: 20260125
+DTSTAMP:20181026T000000Z
+URL;VALUE=URI:https://www.elk-wue.de/glauben/kirchenjahr/
+End: VEVENT
+BEGIN:VEVENT
+SUMMARY:Letzter Sonntag nach Epiphanias - Verklärung
+DESCRIPTION: Predigtreihe II neu\nLiturgische Farbe: weiß\nPredigttext: Ofb 1,9-18\n\nWochenspruch: Jesaja 60,2\nWochenlieder: EG 67 oder 450\n\nWochenpsalm: 97\n\nI: 2. Mose 3,1-8a.(8b-9.)10.(11-12.)13-14.(15)\nII: Offenbarung 1,9-18\nIII: 2. Petrus 1,16-19.(20-21)\nIV: 2. Mose 34,29-35\nV: Matthäus 17,1-9\nVI: 2. Korinther 4,6-10\n\nLesungen:\n1. AT: 2. Mose 3,1-8a.(8b-9.)10.(11-12.)13-14.(15)\n2. Epistel: 2. Korinther 4,6-10\n3. Evangelium: Matthäus 17,1-9\n
+CLASS:PUBLIC
+DTSTART;VALUE=DATE: 20260201
+DTSTAMP:20181026T000000Z
+URL;VALUE=URI:https://www.elk-wue.de/glauben/kirchenjahr/
+End: VEVENT
+BEGIN:VEVENT
+SUMMARY:Sexagesimä (2. Sonntag vor der Passionszeit) - Viererlei Ackerfeld
+DESCRIPTION: Predigtreihe II neu\nLiturgische Farbe: Grün\nPredigttext: Hes 2,1-5.(6-7.)8-10;3,1-3\n\nWochenspruch: Hebräer 3,15\nWochenlieder: EG 196 oder 199\n\nWochenpsalm: 119,89-92.103-105.116\n\nI: Apostelgeschichte 16,9-15\nII: Hesekiel 2,1-5.(6-7.)8-10;3,1-3\nIII: Lukas 8,4-8.(9-15)\nIV: Hebräer 4,12-13\nV: Jesaja 55,(6-7.)8-12a\nVI: Markus 4,26-29\n\nLesungen:\n1. AT: Jesaja 55,(6-7.)8-12a\n2. Epistel: Hebräer 4,12-13\n3. Evangelium: Lukas 8,4-8.(9-15)\n
+CLASS:PUBLIC
+DTSTART;VALUE=DATE: 20260208
+DTSTAMP:20181026T000000Z
+URL;VALUE=URI:https://www.elk-wue.de/glauben/kirchenjahr/
+End: VEVENT
+BEGIN:VEVENT
+SUMMARY:Estomihi (Sonntag vor der Passionszeit) - Der Weg zum Kreuz
+DESCRIPTION: Predigtreihe II neu\nLiturgische Farbe: Grün\nPredigttext: Lk 18,31-43\n\nWochenspruch: Lukas 18,31\nWochenlieder: EG 401 oder Wwdl+ 217\n\nWochenpsalm: 31,2-6.8-9.16-17\nPflichtopfer für Diakonie in der Landeskirche\n\nI: Lukas 10,38-42\nII: Lukas 18,31-43\nIII: Jesaja 58,1-9a\nIV: Markus 8,31-38\nV: 1. Korinther 13,1-13\nVI: Amos 5,21-24\n\nLesungen:\n1. AT: Amos 5,21-24\n2. Epistel: 1. Korinther 13,1-13\n3. Evangelium: Markus 8,31-38\n
+CLASS:PUBLIC
+DTSTART;VALUE=DATE: 20260215
+DTSTAMP:20181026T000000Z
+URL;VALUE=URI:https://www.elk-wue.de/glauben/kirchenjahr/
+End: VEVENT
+BEGIN:VEVENT
+SUMMARY:Invokavit (1. Sonntag der Passionszeit; Landesbußtag) - Versuchung
+DESCRIPTION: Predigtreihe II neu\nLiturgische Farbe: Violett\nPredigttext: 1. Mo 3,1-19.(20-24)\n\nWochenspruch: 1. Johannes 3,8b\nWochenlieder: EG 347 oder 362\n\nWochenpsalm: 91,1-6.9-12\n\nI: Hebräer 4,14-16\nII: 1. Mose 3,1-19.(20-24)\nIII: Johannes 13,21-30\nIV: 2. Korinther 6,1-10\nV: Hiob 2,1-13\nVI: Matthäus 4,1-11\n\nLesungen:\n1. AT: 1. Mose 3,1-19.(20-24)\n2. Epistel: Hebräer 4,14-16\n3. Evangelium: Matthäus 4,1-11\n\nZählsonntag (auch im Kindergottesdienst)
+CLASS:PUBLIC
+DTSTART;VALUE=DATE: 20260222
+DTSTAMP:20181026T000000Z
+URL;VALUE=URI:https://www.elk-wue.de/glauben/kirchenjahr/
+End: VEVENT
+BEGIN:VEVENT
+SUMMARY:Weltgebetstag
+DESCRIPTION: 
+CLASS:PUBLIC
+DTSTART;VALUE=DATE: 20260306
+DTSTAMP:20181026T000000Z
+URL;VALUE=URI:https://www.elk-wue.de/glauben/kirchenjahr/
+End: VEVENT
+BEGIN:VEVENT
+SUMMARY:Reminiszere(2. Sonntag der Passionszeit) - Den Menschen ausgeliefert
+DESCRIPTION: Predigtreihe II neu\nLiturgische Farbe: Violett\nPredigttext: Röm 5,1-5.(6-11)\n\nWochenspruch: Römer 5,8\nWochenlieder: EG 94 oder 96\n\nWochenpsalm: 25,1-9\nempfohlenes Opfer für verfolgte und bedrängte Christen\n\nI: Johannes 3,14-21\nII: Römer 5,1-5.(6-11)\nIII: Jesaja 5,1-7\nIV: Matthäus 26,36-46\nV: Markus 12,1-12\nVI: 4. Mose 21,4-9\n\nLesungen:\n1. AT: Jesaja 5,1-7\n2. Epistel: Römer 5,1-5.(6-11)\n3. Evangelium: Johannes 3,14-21\n
+CLASS:PUBLIC
+DTSTART;VALUE=DATE: 20260301
+DTSTAMP:20181026T000000Z
+URL;VALUE=URI:https://www.elk-wue.de/glauben/kirchenjahr/
+End: VEVENT
+BEGIN:VEVENT
+SUMMARY:Okuli (3. Sonntag der Passionszeit) - Nachfolge
+DESCRIPTION: Predigtreihe II neu\nLiturgische Farbe: Violett\nPredigttext: Lk 9,57-62\n\nWochenspruch: Lukas 9,62\nWochenlieder: EG 391 oder EG 548\n\nWochenpsalm: 34,16-23\n\nI: Jeremia 20,7-11a.(11b-13)\nII: Lukas 9,57-62\nIII: Epheser 5,1-2.(3-7.)8-9\nIV: 1. Könige 19,1-8.(9-13a)\nV: Lukas 22,47-53\nVI: 1. Petrus 1,(13-17.)18-21\n\nLesungen:\n1. AT: 1. Könige 19,1-8.(9-13a)\n2. Epistel: Epheser 5,1-2.(3-7.)8-9\n3. Evangelium: Lukas 9,57-62\n
+CLASS:PUBLIC
+DTSTART;VALUE=DATE: 20260308
+DTSTAMP:20181026T000000Z
+URL;VALUE=URI:https://www.elk-wue.de/glauben/kirchenjahr/
+End: VEVENT
+BEGIN:VEVENT
+SUMMARY:Lätare (4. Sonntag der Passionszeit) - Für euch dahingegeben
+DESCRIPTION: Predigtreihe II neu\nLiturgische Farbe: Violett\nPredigttext: Jes 66,10-14\n\nWochenspruch: Johannes 12,24\nWochenlieder: EG 98 oder 396\n\nWochenpsalm: 84,2-13\nPflichtopfer für die Studienhilfe\n\nI: Johannes 6,47-51\nII: Jesaja 66,10-14\nIII: Johannes 12,20-24\nIV: 2. Korinther 1,3-7\nV: Jesaja 54,7-10\nVI: Lukas 22,54-62\n\nLesungen:\n1. AT: Jesaja 54,7-10\n2. Epistel: 2. Korinther 1,3-7\n3. Evangelium: Johannes 12,20-24\n
+CLASS:PUBLIC
+DTSTART;VALUE=DATE: 20260315
+DTSTAMP:20181026T000000Z
+URL;VALUE=URI:https://www.elk-wue.de/glauben/kirchenjahr/
+End: VEVENT
+BEGIN:VEVENT
+SUMMARY:Judika (5. Sonntag der Passionszeit) - Das Lamm Gottes
+DESCRIPTION: Predigtreihe II neu\nLiturgische Farbe: Violett\nPredigttext: Hebr 13,12-14\n\nWochenspruch: Matthäus 20,28\nWochenlieder: EG 76 oder 97\n\nWochenpsalm: 43\n\nI: Johannes 18,28–19,5\nII: Hebräer 13,12-14\nIII: Hiob 19,19-27\nIV: Markus 10,35-45\nV: Hebräer 5,(1-6.)7-9.(10)\nVI:  1. Mose 22,1-14.(15-19)\n\nLesungen:\n1. AT: 1. Mose 22,1-14.(15-19)\n2. Epistel: Hebräer 5,(1-6.)7-9.(10)\n3. Evangelium: Markus 10,35-45\n
+CLASS:PUBLIC
+DTSTART;VALUE=DATE: 20260322
+DTSTAMP:20181026T000000Z
+URL;VALUE=URI:https://www.elk-wue.de/glauben/kirchenjahr/
+End: VEVENT
+BEGIN:VEVENT
+SUMMARY:Palmarum (6. Sonntag der Passionszeit) - Der Schmerzensmann
+DESCRIPTION: Predigtreihe II neu\nLiturgische Farbe: Violett\nPredigttext: Mk 14,(1-2.)3-9\n\nWochenspruch: Johannes 3,14b.15\nWochenlieder: EG 91 oder 14\n\nWochenpsalm: 69,2-4.8-10.14.21b-22.30 oder Philipper 2,6-11\n\nI: Jesaja 50,4-9\nII: Markus 14,(1-2.)3-9\nIII: Hebräer 11,1-2.(8-12.39-40.);12,1-3\nIV: Johannes 17,1-8\nV: Johannes 12,12-19\nVI: Philipper 2,5-11\n\nLesungen:\n1. AT: Jesaja 50,4-9\n\n2. Epistel: Philipper 2,5-11\n3. Evangelium: Johannes 12,12-19\n
+CLASS:PUBLIC
+DTSTART;VALUE=DATE: 20260329
+DTSTAMP:20181026T000000Z
+URL;VALUE=URI:https://www.elk-wue.de/glauben/kirchenjahr/
+End: VEVENT
+BEGIN:VEVENT
+SUMMARY:Gründonnerstag (Tag der Einsetzung des Hlg. Abendmahls - Das Mahl des neuen Bundes
+DESCRIPTION: Predigtreihe II neu\nLiturgische Farbe: Weiß\nPredigttext: 2. Mo 12,1-4.(5.)6-8.(9.)10-14\n\nWochenspruch: Psalm 111,4\nWochenlieder: EG 223 oder EG 587\n\nWochenpsalm: 111\n\nI: 1. Korinther 11,(17-22.)23-26.(27-29.33-34a)\nII: 2. Mose 12,1-4.(5.)6-8.(9.)10-14\nIII: Matthäus 26,17-30\nIV: 1. Korinther 10,16-17\nV: Lukas 22,39-46\nVI: Johannes 13,1-15.34-35\n\nLesungen\n1. AT: 2. Mose 12,1-4.(5.)6-8.(9.)10-14\n3. Epistel: 1. Korinther 11,(17-22.)23-26.(27-29.33-34a)\n3. Evangelium: Johannes 13,1-15.34-35\n
+CLASS:PUBLIC
+DTSTART;VALUE=DATE: 20260402
+DTSTAMP:20181026T000000Z
+URL;VALUE=URI:https://www.elk-wue.de/glauben/kirchenjahr/
+End: VEVENT
+BEGIN:VEVENT
+SUMMARY:Karfreitag (Tag der Kreuzigung des Herrn) - Gekreuzigt und gestorben
+DESCRIPTION: Predigtreihe II neu\nLiturgische Farbe: Schwarz (oder Violett)\nPredigttext: 2. Korinther 5,(14b-18.)19-21\n\nWochenspruch: Johannes 3,16\nWochenlieder: EG 85 oder Wwdl+ 165\n\nWochenpsalm: 22,2-9.12.16.19-20\nempfohlenes Opferfür die Aktion "Hoffnung für Osteuropa" (DWW)\n\nI: Johannes 19,16-30\nII: 2. Korinther 5,(14b-18.)19-21\nIII: Jesaja 52,13-15;53,1-12\nIV: Lukas 23,32-49\nV: Kolosser 1,13-20\nVI: Matthäus 27,33-54\n\n1. AT: Jesaja 52,13-15;53,1-12\n2. Epistel: 2. Korinther 5,(14b-18.)19-21\n3. Evangelium: Johannes 19,16-30\n\nZähltag
+CLASS:PUBLIC
+DTSTART;VALUE=DATE: 20260403
+DTSTAMP:20181026T000000Z
+URL;VALUE=URI:https://www.elk-wue.de/glauben/kirchenjahr/
+End: VEVENT
+BEGIN:VEVENT
+SUMMARY:Karfreitag (Tag der Kreuzigung des Herrn) Vesper
+DESCRIPTION: Predigtreihe II neu\nLiturgische Farbe: Schwarz (oder Violett)\nPredigttext: Joh 19,31-42\n\nWochenspruch: Johannes 3,16\nWochenlieder: EG 85 oder Wwdl+ 165\n\nWochenpsalm: 22,2-9.12.16.19-20\nempfohlenes Opferfür die Aktion "Hoffnung für Osteuropa" (DWW)\n\nI: Johannes 19,31-42\n\nZähltag
+CLASS:PUBLIC
+DTSTART;VALUE=DATE: 20260403
+DTSTAMP:20181026T000000Z
+URL;VALUE=URI:https://www.elk-wue.de/glauben/kirchenjahr/
+End: VEVENT
+BEGIN:VEVENT
+SUMMARY:Karsamstagabend - Begraben
+DESCRIPTION: Predigtreihe II neu\nLiturgische Farbe: Schwarz (oder Violett)\nPredigttext: Mt 27,(57-61.)62-66\n\nWochenspruch: Johannes 3,16\nWochenlieder: EG 80 oder 485\n\nWochenpsalm: 88,2-7.11-13 oder Jona 2,3-10\n\nI: Jona 2,1-11\nII: Matthäus 27,(57-61.)62-66\nIII: 1. Petrus 3,18-22\nIV: Hesekiel 37,1-14\nV: Johannes 19,(31-37.)38-42\nVI: Hebräer 9,11-12.24\n\nLesungen: 1. AT: Hesekiel 37,1-14(3x)\n2. Epistel: 1. Petrus 3,18-22\n3. Evangelium: Matthäus 27,(57-61.)62-66\n
+CLASS:PUBLIC
+DTSTART;VALUE=DATE: 20260404
+DTSTAMP:20181026T000000Z
+URL;VALUE=URI:https://www.elk-wue.de/glauben/kirchenjahr/
+End: VEVENT
+BEGIN:VEVENT
+SUMMARY:Osternacht/Ostermorgen - Die Auferweckung des Gekreuzigten
+DESCRIPTION: Predigtreihe II neu\nLiturgische Farbe: weiß\nPredigttext: 2. Tim 2,8-13\n\nWochenspruch: Offenbarung 1,18\nWochenlieder: EG 98 oder 99\n\nWochenpsalm: 118,14-24\n\nI: 1. Thessalonicher 4,13-18\nII: 2. Timotheus 2,8-13\nIII: Matthäus 28,1-10\nIV: Kolosser 3,1-4\nV: Jesaja 26,13-14.(15-18.)19\nVI: Johannes 5,19-21\n\nLesungen:\n1. AT: Jesaja 26,13-14.(15-18.)19\n2. Epistel: Kolosser 3,1-4\n3. Evangelium: Matthäus 28,1-10\n
+CLASS:PUBLIC
+DTSTART;VALUE=DATE: 20260405
+DTSTAMP:20181026T000000Z
+URL;VALUE=URI:https://www.elk-wue.de/glauben/kirchenjahr/
+End: VEVENT
+BEGIN:VEVENT
+SUMMARY:Osterfest(Tag der Auferstehung des Herrn) - Das Wunder der Auferstehung
+DESCRIPTION: Predigtreihe II neu\nLiturgische Farbe: weiß\nPredigttext: 1. Kor 15,(12-18.)19-28\n\nWochenspruch: Offenbarung 1,18\nWochenlieder: EG 101 oder Wwdl+ 219\n\nWochenpsalm: 118,14-24\n\nI: Johannes 20,11-18\nII: 1. Korinther 15,(12-18.)19-28\nIII: 2. Mose 14,8-14.19-23.28-30a;15,20-21\nIV: Markus 16,1-8\nV: 1. Korinther 15,1-11\nVI: 1. Samuel 2,1-8a\n\nLesungen:\n1. AT: 1. Samuel 2,1-8a\n2. Epistel: 1. Korinther 15,1-11\n3. Evangelium: Markus 16,1-8\n
+CLASS:PUBLIC
+DTSTART;VALUE=DATE: 20260405
+DTSTAMP:20181026T000000Z
+URL;VALUE=URI:https://www.elk-wue.de/glauben/kirchenjahr/
+End: VEVENT
+BEGIN:VEVENT
+SUMMARY:Ostermontag (und Osterwoche) - Die Gegenwart des Auferstandenen
+DESCRIPTION: Predigtreihe II neu\nLiturgische Farbe: weiß\nPredigttext: Lk 24,36-45\n\nWochenspruch: Offenbarung 1,18\nWochenlieder: EG 100 oder 116\n\nWochenpsalm: 118,14-24\n\nI: Jesaja 25,6-9\nII: Lukas 24,36-45\nIII: Offenbarung 5,6-14\nIV: Jona 2,(1-2.)3-10.(11)\nV: Lukas 24,13-35\nVI: 1. Korinther 15,50-58\n\nLesungen:\n1. AT: Jesaja 25,6-9\n2. Epistel: 1. Korinther 15,50-58\n3. Evangelium: Lukas 24,13-35\n
+CLASS:PUBLIC
+DTSTART;VALUE=DATE: 20260406
+DTSTAMP:20181026T000000Z
+URL;VALUE=URI:https://www.elk-wue.de/glauben/kirchenjahr/
+End: VEVENT
+BEGIN:VEVENT
+SUMMARY:Quasimodogeniti (1. Sonntag nach Ostern) - Die neue Geburt
+DESCRIPTION: Predigtreihe II neu\nLiturgische Farbe: weiß\nPredigttext: Jes 40,26-31\n\nWochenspruch: 1. Petrus 1,3\nWochenlieder: EG 108 oder 117\n\nWochenpsalm: 116,1-9.13\n\nI: 1. Petrus 1,3-9\nII: Jesaja 40,26-31\nIII: Johannes 21,1-14\nIV: Kolosser 2,12-15\nV: 1. Mose 32,23-32\nVI: Johannes 20,19-20.(21-23.)24-29\n\nLesungen: 1. AT: Jesaja 40,26-31\n2. Epistel: 1. Petrus 1,3-9\n3. Evangelium: Johannes 20,19-20.(21-23.)24-29\n
+CLASS:PUBLIC
+DTSTART;VALUE=DATE: 20260412
+DTSTAMP:20181026T000000Z
+URL;VALUE=URI:https://www.elk-wue.de/glauben/kirchenjahr/
+End: VEVENT
+BEGIN:VEVENT
+SUMMARY:Miserikordias Domini (2. Sonntag nach Ostern) - Der gute Hirte
+DESCRIPTION: Predigtreihe II neu\nLiturgische Farbe: weiß\nPredigttext: 1. Petr 2,21b-25\n\nWochenspruch: Johannes 10,11a.27-28a\nWochenlieder: EG 274 oder 358\n\nWochenpsalm: 23\n\nI: Johannes 10,11-16.(27-30)\nII: 1. Petrus 2,21b-25\nIII: Hesekiel 34,1-2.(3-9.)10-16.31\nIV: Johannes 21,15-19\nV: 1. Petrus 5,1-4\nVI: 1. Mose 16,1-16\n\nLesungen:1. AT: Hesekiel 34,1-2.(3-9.)10-16.31\n2. Epistel: 1. Petrus 5,1-4\n3. Evangelium: Johannes 10,11-16.(27-30)\n
+CLASS:PUBLIC
+DTSTART;VALUE=DATE: 20260419
+DTSTAMP:20181026T000000Z
+URL;VALUE=URI:https://www.elk-wue.de/glauben/kirchenjahr/
+End: VEVENT
+BEGIN:VEVENT
+SUMMARY:Jubilate (3. Sonntag nach Ostern) - Die neue Schöpfung (4,. 
+DESCRIPTION: Predigtreihe II neu\nLiturgische Farbe: weiß\nPredigttext: Joh 15,1-8\n\nWochenspruch: 2. Korinther 5,17\nWochenlieder: EG 110 oder 432\n\nWochenpsalm: 66,1-9\nPflichtopfer für besondere gesamtkirchliche Aufgaben (EKD)\n\nI: Sprüche 8,22-36\nII: Johannes 15,1-8\nIII: Apostelgeschichte 17,22-34\nIV: 1. Mose 1,1-4a.(4b-25.)26-28.(29-30.)31a.(31b.);2,1-4a\nV: Johannes 16,16-23a\nVI: 2. Korinther 4,14-18\n\nLesungen:\n1. AT: 1. Mose 1,1-4a.(4b-25.)26-28.(29-30.)31a.(31b.);2,1-4a\n. Epistel: Apostelgeschichte 17,22-34\n3. Evangelium: Johannes 15,1-8\n
+CLASS:PUBLIC
+DTSTART;VALUE=DATE: 20260426
+DTSTAMP:20181026T000000Z
+URL;VALUE=URI:https://www.elk-wue.de/glauben/kirchenjahr/
+End: VEVENT
+BEGIN:VEVENT
+SUMMARY:Kantate (4. Sonntag nach Ostern) - Die singende Gemeinde
+DESCRIPTION: Predigtreihe II neu\nLiturgische Farbe: weiß\nPredigttext: 2. Chr 5,2-5.(6-11.)12-14\n\nWochenspruch: Psalm 98,1\nWochenlieder: EG 302 oder Wwdl+ 56\n\nWochenpsalm: 98\n\nI: Apostelgeschichte 16,23-34\nII: 2. Chronik 5,2-5.(6-11.)12-14\nIII: Lukas 19,37-40\nIV: Kolosser 3,12-17\nV: 1. Samuel 16,14-23\nVI: Offenbarung 15,2-4\n\nLesungen:\n1. AT: 1. Samuel 16,14-23\n2. Epistel: Kolosser 3,12-17\n3. Evangelium: Lukas 19,37-40\n
+CLASS:PUBLIC
+DTSTART;VALUE=DATE: 20260503
+DTSTAMP:20181026T000000Z
+URL;VALUE=URI:https://www.elk-wue.de/glauben/kirchenjahr/
+End: VEVENT
+BEGIN:VEVENT
+SUMMARY:Rogate (5. Sonntag nach Ostern) - Die betende Kirche
+DESCRIPTION: Predigtreihe II neu\nLiturgische Farbe: weiß\nPredigttext: Mt 6,5-15\n\nWochenspruch: Psalm 66,20\nWochenlieder: EG 344 oder Wwdl+ 8\n\nWochenpsalm: 95,1-7a\n\nI: Johannes 16,23b-28.(29-32.)33\nII: Matthäus 6,5-15\nIII: Jesus Sirach 35,16-22a oder Daniel 9,4-5.16-19\nIV: Lukas 11,(1-4.)5-13\nV: 1. Timotheus 2,1-6a\nVI: 2. Mose 32,7-14\n\nLesungen:\n1. AT: 2. Mose 32,7-14\n2. Epistel: 1. Timotheus 2,1-6a\n3.Evangelium: Lukas 11,(1-4.)5-13\n
+CLASS:PUBLIC
+DTSTART;VALUE=DATE: 20260510
+DTSTAMP:20181026T000000Z
+URL;VALUE=URI:https://www.elk-wue.de/glauben/kirchenjahr/
+End: VEVENT
+BEGIN:VEVENT
+SUMMARY:Christi Himmelfahrt - Die Herrschaft Christi
+DESCRIPTION: Predigtreihe II neu\nLiturgische Farbe: weiß\nPredigttext: Joh 17,20-26\n\nWochenspruch: Johannes 12,32\nWochenlieder: EG 123 oder Wwdl+ 216\n\nWochenpsalm: 47,2-10\n\nI: 1. Könige 8,22-24.26-28\nII: Johannes 17,20-26\nIII: Epheser 1,(15-20a.)20b-23\nIV: Daniel 7,1-3.(4-8.)9-14\nV: Lukas 24,(44-49.)50-53\n\nVI: Apostelgeschichte 1,3-11\n\nLesungen:\n1. AT: 1. Könige 8,22-24.26-28\n2. Epistel: Apostelgeschichte 1,3-11\n3. Evangelium: Lukas 24,(44-49.)50-53\n
+CLASS:PUBLIC
+DTSTART;VALUE=DATE: 20260514
+DTSTAMP:20181026T000000Z
+URL;VALUE=URI:https://www.elk-wue.de/glauben/kirchenjahr/
+End: VEVENT
+BEGIN:VEVENT
+SUMMARY:Exaudi (6. Sonntag nach Ostern) - Die wartende Gemeinde
+DESCRIPTION: Predigtreihe II neu\nLiturgische Farbe: weiß\nPredigttext: Jer 31,31-34\n\nWochenspruch: Johannes 12,32\nWochenlieder: EG 128 oder 136\n\nWochenpsalm: 27,1.7-14\n\nI: Epheser 3,14-21\nII: Jeremia 31,31-34\nIII: Johannes 7,37-39\nIV: Römer 8,26-30\nV: 1. Samuel 3,1-10\nVI: Johannes 16,5-15\n\nLesungen:\n1. AT: Jeremia 31,31-34\n2. Epistel: Epheser 3,14-21\n3. Evangelium: Johannes 16,5-15\n
+CLASS:PUBLIC
+DTSTART;VALUE=DATE: 20260517
+DTSTAMP:20181026T000000Z
+URL;VALUE=URI:https://www.elk-wue.de/glauben/kirchenjahr/
+End: VEVENT
+BEGIN:VEVENT
+SUMMARY:Pfingstsonntag (Tag der Ausgießung des Heiligen Geistes) - Die Kirche des Geistes
+DESCRIPTION: Predigtreihe II neu\nLiturgische Farbe: Rot\nPredigttext: Apg 2,1-21\n\nWochenspruch: Sacharja 4,6b\nWochenlieder: EG 126 oder Wwdl+ 104\n\nWochenpsalm: 118,24-29\nempfohlenes Opfer für aktuelle Notstände\n\nI: Johannes 14,15-19.(20-23a.)23b-27\nII: Apostelgeschichte 2,1-21\nIII: 1. Mose 11,1-9\nIV: Römer 8,1-2.(3-9.)10-11\nV: 1. Korinther 2,12-16\nVI: Hesekiel 37,1-14\n\nLesungen:\n1. AT: 1. Mose 11,1-9\n2. Epistel: Apostelgeschichte 2,1-21\n3. Evangelium: Johannes 14,15-19.(20-23a.)23b-27\n
+CLASS:PUBLIC
+DTSTART;VALUE=DATE: 20260524
+DTSTAMP:20181026T000000Z
+URL;VALUE=URI:https://www.elk-wue.de/glauben/kirchenjahr/
+End: VEVENT
+BEGIN:VEVENT
+SUMMARY:Pfingstmontag und Pfingstwoche - Die Gaben des Geistes
+DESCRIPTION: Predigtreihe II neu\nLiturgische Farbe: Rot\nPredigttext: Joh 20,19-23\n\nWochenspruch: Sacharja 4,6b\nWochenlieder: EG 129 oder 268\n\nWochenpsalm: 118,24-29\n\nI: Matthäus 16,13-19\nII: Johannes 20,19-23\nIII: 1. Korinther 12,4-11\nIV: 4. Mose 11,11-12.14-17.24-25.(26-30)\nV: Johannes 4,19-26\nVI: Epheser 4,(1-6.)11-15.(16)\n\nLesungen:\n1. AT: 4. Mose 11,11-12.14-17.24-25.(26-30)\n2. Epistel: 1. Korinther 12,4-11\n3. Evangelium: Johannes 20,19-23\n
+CLASS:PUBLIC
+DTSTART;VALUE=DATE: 20260525
+DTSTAMP:20181026T000000Z
+URL;VALUE=URI:https://www.elk-wue.de/glauben/kirchenjahr/
+End: VEVENT
+BEGIN:VEVENT
+SUMMARY:Trinitatis (Tag der Heiligen Dreifaltigkeit) - Der dreieinige Gott
+DESCRIPTION: Predigtreihe II neu\nLiturgische Farbe: Weiß\nPredigttext: 4. Mo 6,22-27\n\nWochenspruch: 2. Korinther 13,13\nWochenlieder: EG 139 oder 140\n\nWochenpsalm: 113\n\nI: 2. Korinther 13,11-13\nII: 4. Mose 6,22-27\nIII: Johannes 3,1-8.(9-13)\nIV: Römer 11,(32.)33-36\nV: Jesaja 6,1-8.(9-13)\nVI: Epheser 1,3-14\n\n
+Lesungen:\n1. AT: Jesaja 6,1-8.(9-13)\n2. Epistel: Römer 11,(32.)33-36\n3. Evangelium: Johannes 3,1-8.(9-13)\n
+CLASS:PUBLIC
+DTSTART;VALUE=DATE: 20260531
+DTSTAMP:20181026T000000Z
+URL;VALUE=URI:https://www.elk-wue.de/glauben/kirchenjahr/
+End: VEVENT
+BEGIN:VEVENT
+SUMMARY:1. Sonntag nach Trinitatis - Apostel und Propheten
+DESCRIPTION: Predigtreihe II neu\nLiturgische Farbe: Grün\nPredigttext: Apg 4,32-37\n\nWochenspruch: Lukas 10,16a\nWochenlieder: EG 365 oder 382\n\nWochenpsalm: 34,2-11\n\nI: Johannes 5,39-47\nII: Apostelgeschichte 4,32-37\nIII: Jona 1,1–2,2.(3-10.)11\nIV: Lukas 16,19-31\nV: 1. Johannes 4,(13-16a.)16b-21\nVI: Jeremia 23,16-29\n\nLesungen:\n1. AT: Jeremia 23,16-29\n2. Epistel: 1. Johannes 4,(13-16a.)16b-21\n3. Evangelium: Lukas 16,19-31\n
+CLASS:PUBLIC
+DTSTART;VALUE=DATE: 20260607
+DTSTAMP:20181026T000000Z
+URL;VALUE=URI:https://www.elk-wue.de/glauben/kirchenjahr/
+End: VEVENT
+BEGIN:VEVENT
+SUMMARY:2. Sonntag nach Trinitatis - Die Einladung
+DESCRIPTION: Predigtreihe II neu\nLiturgische Farbe: Grün\nPredigttext: Mt 11,25-30\n\nWochenspruch: Matthäus 11,28\nWochenlieder: EG 213 oder 225\n\nWochenpsalm: 36,6-10\n\nI: Jesaja 55,1-5\nII: Matthäus 11,25-30\nIII: 1. Korinther 14,1-12.(23-25)\nIV: Jona 3,1-10\nV: Lukas 14,(15.)16-24\nVI: Epheser 2,(11-16.)17-22\n\nLesungen:\n1. AT: Jesaja 55,1-5\n2. Epistel: Epheser 2,(11-16.)17-22\n3. Evangelium: Lukas 14,(15.)16-24\n
+CLASS:PUBLIC
+DTSTART;VALUE=DATE: 20260614
+DTSTAMP:20181026T000000Z
+URL;VALUE=URI:https://www.elk-wue.de/glauben/kirchenjahr/
+End: VEVENT
+BEGIN:VEVENT
+SUMMARY:3. Sonntag nach Trinitatis - Das Wort von der Versöhnung
+DESCRIPTION: Predigtreihe II neu\nLiturgische Farbe: Grün\nPredigttext: Micha 7,18-20\n\nWochenspruch: Lukas 19,10\nWochenlieder: EG 353 oder EG 611\n\nWochenpsalm: 103,1-13\nPflichtopfer für die Diakonie in der Landeskirche (DWW)\n\nI: 1. Timotheus 1,12-17\nII: Micha 7,18-20\nIII: Lukas 15,1-10\nIV: Hesekiel 18,1-4.21-24.30-32\nV: Jona (3,10.)4,1-11\nVI: Lukas 15,1-3.11b-32\n\nLesungen:\n1. AT: Micha 7,18-20\n2. Epistel: 1. Timotheus 1,12-17\n3. Evangelium: Lukas 15,1-3.11b-32\n
+(Tag der Diakonie)
+CLASS:PUBLIC
+DTSTART;VALUE=DATE: 20260621
+DTSTAMP:20181026T000000Z
+URL;VALUE=URI:https://www.elk-wue.de/glauben/kirchenjahr/
+End: VEVENT
+BEGIN:VEVENT
+SUMMARY:4. Sonntag nach Trinitatis - Die Gemeinde der Sünder
+DESCRIPTION: Predigtreihe II neu\nLiturgische Farbe: Grün\nPredigttext: Röm 12,17-21\n\nWochenspruch: Galater 6,2\nWochenlieder: EG 428 oder 495\n\nWochenpsalm: 42,2-6\n\nI: Lukas 6,36-42\nII: Römer 12,17-21\nIII: 1. Mose 50,15-21\nIV: Johannes 8,3-11\nV: 1. Petrus 3,8-17\nVI: 1. Samuel 24,1-20\n\nLesungen:\n1. AT: 1. Mose 50,15-21\n2. Epistel: Römer 12,17-21\n3. Evangelium: Lukas 6,36-42\n
+CLASS:PUBLIC
+DTSTART;VALUE=DATE: 20260628
+DTSTAMP:20181026T000000Z
+URL;VALUE=URI:https://www.elk-wue.de/glauben/kirchenjahr/
+End: VEVENT
+BEGIN:VEVENT
+SUMMARY:5. Sonntag nach Trinitatis - Der rettende Ruf
+DESCRIPTION: Predigtreihe II neu\nLiturgische Farbe: Grün\nPredigttext: Lk 5,1-11\n\nWochenspruch: Epheser 2,8\nWochenlieder: EG 241 oder 313\n\nWochenpsalm: 73,1-3.8-10.23-26\n\nI: Matthäus 9,35–10,1.(2-4.)5-10\nII: Lukas 5,1-11\nIII: 1. Korinther 1,18-25\nIV: 1. Mose 12,1-4a\nV: Johannes 1,35-51\VI: 2. Korinther (11,18.23b-30);12,1-10\n\nLesungen:\n1. AT: 1. Mose 12,1-4a\n\n2. Epistel: 1. Korinther 1,18-25\n3. Evangelium: Lukas 5,1-11\n
+CLASS:PUBLIC
+DTSTART;VALUE=DATE: 20260705
+DTSTAMP:20181026T000000Z
+URL;VALUE=URI:https://www.elk-wue.de/glauben/kirchenjahr/
+End: VEVENT
+BEGIN:VEVENT
+SUMMARY:6. Sonntag nach Trinitatis - Leben aus der Taufe
+DESCRIPTION: Predigtreihe II neu\nLiturgische Farbe: Grün\nPredigttext: 5. Mo 7,6-12\n\nWochenspruch: Jesaja 43,1\nWochenlieder: EG 200 oder fT 134\n\nWochenpsalm: 139,1-12 oder 139,13-16.23-24\n\nI: 1. Petrus 2,2-10\nII: 5. Mose 7,6-12\nIII: Matthäus 28,16-20\nIV: Römer 6,3-8.(9-11)\nV: Jesaja 43,1-7\nVI: Apostelgeschichte 8,26-39\n\nLesungen:\n1. AT: Jesaja 43,1-7\n\n2. Epistel: Römer 6,3-8.(9-11)\n3. Evangelium: Matthäus 28,16-20\n
+CLASS:PUBLIC
+DTSTART;VALUE=DATE: 20260712
+DTSTAMP:20181026T000000Z
+URL;VALUE=URI:https://www.elk-wue.de/glauben/kirchenjahr/
+End: VEVENT
+BEGIN:VEVENT
+SUMMARY:7. Sonntag nach Trinitatis - Am Tisch des Herrn
+DESCRIPTION: Predigtreihe II neu\nLiturgische Farbe: Grün\nPredigttext: Hebr 13,1-3\n\nWochenspruch: Epheser 2,19\nWochenlieder: EG 320 oder 418\n\nWochenpsalm: 107,1-9\n\nI: Johannes 6,30-35\nII: Hebräer 13,1-3\nIII: 1. Könige 17,1-16\nIV: Johannes 6,1-15\nV: Apostelgeschichte 2,41-47\nVI: 2. Mose 16,2-3.11-18\n\nLesungen:\n1. AT: 2. Mose 16,2-3.11-18\n2. Epistel: Apostelgeschichte 2,41-47\n3. Evangelium: Johannes 6,1-15\n
+CLASS:PUBLIC
+DTSTART;VALUE=DATE: 20260719
+DTSTAMP:20181026T000000Z
+URL;VALUE=URI:https://www.elk-wue.de/glauben/kirchenjahr/
+End: VEVENT
+BEGIN:VEVENT
+SUMMARY:8. Sonntag nach Trinitatis - Früchte des Geistes
+DESCRIPTION: Predigtreihe II neu\nLiturgische Farbe: Grün\nPredigttext: Joh 9,1-7\n\nWochenspruch: Epheser 5,8b.9\nWochenlieder: EG 262/263 oder EG Wwdl+ 172\n\nWochenpsalm: 48,2-3a.9-15\nPflichtopfer für das Ev. Werk für Diakonie und Entwicklung - Bereich Diakonie\n\nI: Jesaja 2,1-5\nII: Johannes 9,1-7\nIII: 1. Korinther 6,9-14.(15-18.)19-20\nIV: Markus 12,41-44\nV: Matthäus 5,13-16\nVI: Epheser 5,8b-14\n\nLesungen:\n1. AT: Jesaja 2,1-5\n2. Epistel: Epheser 5,8b-14\n3. Evangelium: Matthäus 5,13-16\n
+Deutschland (EKD)
+CLASS:PUBLIC
+DTSTART;VALUE=DATE: 20260726
+DTSTAMP:20181026T000000Z
+URL;VALUE=URI:https://www.elk-wue.de/glauben/kirchenjahr/
+End: VEVENT
+BEGIN:VEVENT
+SUMMARY:9. Sonntag nach Trinitatis - Anvertraute Gaben
+DESCRIPTION: Predigtreihe II neu\nLiturgische Farbe: Grün\nPredigttext: Jer 1,4-10\n\nWochenspruch: Lukas 12,48\nWochenlieder: EG 397 oder EG 659\n\nWochenpsalm: 63,2-9\n\nI: Philipper 3,(4b-6.)7-14\nII: Jeremia 1,4-10\nIII: Matthäus 7,24-27\nIV: Matthäus 25,14-30\nV: 1. Könige 3,5-15.(16-28)\VI: Matthäus 13,44-46\n\nLesungen:\n1. AT: Jeremia 1,4-10\n2. Epistel: Philipper 3,(4b-6.)7-14\n3. Evangelium: Matthäus 13,44-46\n
+CLASS:PUBLIC
+DTSTART;VALUE=DATE: 20260802
+DTSTAMP:20181026T000000Z
+URL;VALUE=URI:https://www.elk-wue.de/glauben/kirchenjahr/
+End: VEVENT
+BEGIN:VEVENT
+SUMMARY:10. Sonntag nach Trinitatis - Israelsonntag: Kirche und Israel - Der Herr und sein Volk
+DESCRIPTION: Predigtreihe II neu\nLiturgische Farbe: Grün\nPredigttext: Röm 11,25-32\n\nWochenspruch: Psalm 33,12\nWochenlieder: EG 290 oder 429\n\nWochenpsalm: 122
+oder 74,1-3.8-11.20-21\nempfohlenes Opfer: Israelsonntag\n\nI: Markus 12,28-34\nII: Römer 11,25-32\nIII: 2. Mose 19,1-6\nIV: Matthäus 5,17-20\nV: 5. Mose 4,5-20\nVI: Sacharja 8,20-23\n\nLesungen:\n1. AT: 2. Mose 19,1-6\n2. Epistel: Römer 11,25-32\n3. Evangelium: Markus 12,28-34\n
+CLASS:PUBLIC
+DTSTART;VALUE=DATE: 20260809
+DTSTAMP:20181026T000000Z
+URL;VALUE=URI:https://www.elk-wue.de/glauben/kirchenjahr/
+End: VEVENT
+BEGIN:VEVENT
+SUMMARY:10. Sonntag nach Trinitatis - Israelsonntag: Gedenktag der Zerstörung Jerusalem - Der Herr und sein Volk
+DESCRIPTION: Predigtreihe II neu\nLiturgische Farbe: Violett\nPredigttext: Röm 9,1-5\n\nWochenspruch: Psalm 33,12\nWochenlieder: EG 144 oder 237\n\nWochenpsalm: 122
+oder 74,1-3.8-11.20-21\nempfohlenes Opfer: Israelsonntag\n\nI: Lukas 19,41-48\nII: Römer 9,1-5\nIII: Jesaja 27,2-9\nIV: Klagelieder 5\nV: Römer 11,17-24\nVI: 5. Mose 30,1-6.(7-10)\n\nLesungen:\n1. AT: Jesaja 27,2-9\n2. Epistel: Römer 9,1-5\n3. Evangelium: Lukas 19,41-48\n
+CLASS:PUBLIC
+DTSTART;VALUE=DATE: 20260809
+DTSTAMP:20181026T000000Z
+URL;VALUE=URI:https://www.elk-wue.de/glauben/kirchenjahr/
+End: VEVENT
+BEGIN:VEVENT
+SUMMARY:11. Sonntag nach Trinitatis - Pharisäer und Zöllner
+DESCRIPTION: Predigtreihe II neu\nLiturgische Farbe: Grün\nPredigttext: Lk 18,9-14\n\nWochenspruch: 1. Petrus 5,5b\nWochenlieder: EG 299 oder EG 589\n\nWochenpsalm: 145,1-2.14.17-21\n\nI: Hiob 23\nII: Lukas 18,9-14\nIII: Epheser 2,4-10\nIV: 2. Samuel 12,1-10.13-15a\nV: Lukas 7,36-50\nVI: Galater 2,16-21\n\nLesungen:\n1. AT: 2. Samuel 12,1-10.13-15a\n2. Epistel: Epheser 2,4-10\n3. Evangelium: Lukas 18,9-14\n
+CLASS:PUBLIC
+DTSTART;VALUE=DATE: 20260816
+DTSTAMP:20181026T000000Z
+URL;VALUE=URI:https://www.elk-wue.de/glauben/kirchenjahr/
+End: VEVENT
+BEGIN:VEVENT
+SUMMARY:12. Sonntag nach Trinitatis - Die große Krankenheilung
+DESCRIPTION: Predigtreihe II neu\nLiturgische Farbe: Grün\nPredigttext: 1. Kor 3,9-17\n\nWochenspruch: Jesaja 42,3a\nWochenlieder: EG 289 oder EG 656\n\nWochenpsalm: 147,1-6.11\nPflichtopfer Ökumene und Auslandsarbeit (EKD)\n\nI: Apostelgeschichte 3,1-10\nII: 1. Korinther 3,9-17\nIII: Markus 7,31-37\nIV: Apostelgeschichte 9,1-20\nV: Jesaja 29,17-24\nVI: Lukas 13,10-17\n\nLesungen:\n1. AT: Jesaja 29,17-24\n\n2. Epistel: Apostelgeschichte 3,1-10\n3. Evangelium: Markus 7,31-37\n
+CLASS:PUBLIC
+DTSTART;VALUE=DATE: 20260823
+DTSTAMP:20181026T000000Z
+URL;VALUE=URI:https://www.elk-wue.de/glauben/kirchenjahr/
+End: VEVENT
+BEGIN:VEVENT
+SUMMARY:13. Sonntag nach Trinitatis - Der barmherzige Samariter
+DESCRIPTION: Predigtreihe II neu\nLiturgische Farbe: Grün\nPredigttext: Apg 6,1-7\n\nWochenspruch: Matthäus 25,40b\nWochenlieder: EG 412 oder EG Wwdl+ 86\n\nWochenpsalm: 112\n\nI: Markus 3,31-35\nII: Apostelgeschichte 6,1-7\nIII: 1. Mose 4,1-16a\nIV: Lukas 10,25-37\nV: 1. Johannes 4,7-12\nVI: 3. Mose 19,1-3.13-18.33-34\n\nLesungen:\n1. AT: 3. Mose 19,1-3.13-18.33-34\n2. Epistel: 1. Johannes 4,7-12\n3. Evangelium: Lukas 10,25-37\n
+CLASS:PUBLIC
+DTSTART;VALUE=DATE: 20260830
+DTSTAMP:20181026T000000Z
+URL;VALUE=URI:https://www.elk-wue.de/glauben/kirchenjahr/
+End: VEVENT
+BEGIN:VEVENT
+SUMMARY:14. Sonntag nach Trinitatis - Der dankbare Samariter
+DESCRIPTION: Predigtreihe II neu\nLiturgische Farbe: Grün\nPredigttext: Lk 19,1-10\n\nWochenspruch: Psalm 103,2\nWochenlieder: EG 333 oder Wwdl+ 68\n\nWochenpsalm: 146\n\nI: 1. Mose 28,10-19a.(19b-22)\nII: Lukas 19,1-10\nIII: 1. Thessalonicher 5,14-24\nIV: Jesaja 12,1-6\nV: Lukas 17,11-19\nVI: Römer 8,14-17\n\nLesungen:\n1. AT:  Mose 28,10-19a.(19b-22)\n\n2. Epistel: Römer 8,14-17\n3. Evangelium: Lukas 17,11-19\n
+CLASS:PUBLIC
+DTSTART;VALUE=DATE: 20260906
+DTSTAMP:20181026T000000Z
+URL;VALUE=URI:https://www.elk-wue.de/glauben/kirchenjahr/
+End: VEVENT
+BEGIN:VEVENT
+SUMMARY:15. Sonntag nach Trinitatis - Irdische Güter
+DESCRIPTION: Predigtreihe II neu\nLiturgische Farbe: Grün\nPredigttext: 1. Mose 2,4b-9.(10-14.)15.(18-25)\n\nWochenspruch: 1. Petrus 5,7\nWochenlieder: EG 369 oder 427\n\nWochenpsalm: 127,1-2\nempfohlenes Opfer für die Jugendarbeit\n\nI: 1. Petrus 5,5b-11\nII: 1. Mose 2,4b-9.(10-14.)15.(18-25)\nIII: Lukas 17,5-6\nIV: Galater 5,25–6,10\nV: 1. Mose 15,1-6\nVI: Matthäus 6,25-34\n\nlesungen:\n1. AT: 1. Mose 2,4b-9.(10-14.)15.(18-25)\n2. Epistel: 1. Petrus 5,5b-11\n3. Evangelium: Matthäus 6,25-34\n
+CLASS:PUBLIC
+DTSTART;VALUE=DATE: 20260913
+DTSTAMP:20181026T000000Z
+URL;VALUE=URI:https://www.elk-wue.de/glauben/kirchenjahr/
+End: VEVENT
+BEGIN:VEVENT
+SUMMARY:Michaelistag - Tag des Erzengels Michael und aller Engel
+DESCRIPTION: Predigtreihe II neu\nLiturgische Farbe: Weiß\nPredigttext: Ofb. 12,7-12\n\nWochenspruch: Psalm 34,8\nWochenlieder: EG 142oder 331\n\nWochenpsalm: 103,19-22\nempfohlenes Opfer für die Jugendarbeit
+CLASS:PUBLIC
+DTSTART;VALUE=DATE: 20260929
+DTSTAMP:20181026T000000Z
+URL;VALUE=URI:https://www.elk-wue.de/glauben/kirchenjahr/
+End: VEVENT
+BEGIN:VEVENT
+SUMMARY:16. Sonntag nach Trinitatis
+DESCRIPTION: Predigtreihe II neu\nLiturgische Farbe: Grün\nPredigttext: 2. Tim 1,7-10\n\nWochenspruch: 2. Timotheus 1,10b\nWochenlieder: EG 115 oder EG 665\n\nWochenpsalm: 68,4-7.20-21.35-36\n\nI: Johannes 11,1.(2.)3.17-27.(28-38a.)38b-45\nII: 2. Timotheus 1,7-10\nIII: Klagelieder 3,22-26.31-32\nIV: Lukas 7,11-17\nV: Hebräer 10,35-36.(37-38.)39\nVI: Psalm 16,(1-4.)5-11\n\nLesungen:\n1. AT: Klagelieder 3,22-26.31-32\n2. Epistel: 2. Timotheus 1,7-10\n3. Evangelium: Johannes 11,1.(2.)3.17-27.(28-38a.)38b-45\n
+CLASS:PUBLIC
+DTSTART;VALUE=DATE: 20260920
+DTSTAMP:20181026T000000Z
+URL;VALUE=URI:https://www.elk-wue.de/glauben/kirchenjahr/
+End: VEVENT
+BEGIN:VEVENT
+SUMMARY:Erntedankfest - Segen und Dank
+DESCRIPTION: Predigtreihe II neu\nLiturgische Farbe: Grün\nPredigttext: Mk 8,1-9\n\nTagesspruch: Ps 145,15\nTageslieder: EG 502 oder Wwdl+ 106\n\nWochenpsalm: \n\nZählsonntag
+CLASS:PUBLIC
+DTSTART;VALUE=DATE: 20261004
+DTSTAMP:20181026T000000Z
+URL;VALUE=URI:https://www.elk-wue.de/glauben/kirchenjahr/
+End: VEVENT
+BEGIN:VEVENT
+SUMMARY:17. Sonntag nach Trinitatis - Sieghafter Glaube
+DESCRIPTION: Predigtreihe II neu\nLiturgische Farbe: Grün\nPredigttext: Mt 15,21-28\n\nWochenspruch: 1. Johannes 5,4c\nWochenlieder: EG 346 oder Wwdl+ 70)\n\nWochenpsalm: 138\n\nI: Josua 2,1-21\nII: Matthäus 15,21-28\nIII: Römer 10,9-17.(18)\nIV: Jesaja 49,1-6\nV: Markus 9,17-27\VI: Galater 3,26-29\n\nLesungen:\n1. AT: Jesaja 49,1-6\n2. Epistel: Römer 10,9-17.(18)\n3. Evangelium: Matthäus 15,21-28\n
+CLASS:PUBLIC
+DTSTART;VALUE=DATE: 20260927
+DTSTAMP:20181026T000000Z
+URL;VALUE=URI:https://www.elk-wue.de/glauben/kirchenjahr/
+End: VEVENT
+BEGIN:VEVENT
+SUMMARY:Kirchweihfest (3. Sonntag im Oktober)
+DESCRIPTION: Predigtreihe II neu\nLiturgische Farbe: Rot\nPredigttext: Lk 19,2-10\n\nTagesspruch: Ps 84,2-3\nTageslieder: EG 245oder EG 264\n\nTagespsalm: 84\n
+CLASS:PUBLIC
+DTSTART;VALUE=DATE: 20261018
+DTSTAMP:20181026T000000Z
+URL;VALUE=URI:https://www.elk-wue.de/glauben/kirchenjahr/
+End: VEVENT
+BEGIN:VEVENT
+SUMMARY:18. Sonntag nach Trinitatis - Das vornehmste Gebot
+DESCRIPTION: Predigtreihe II neu\nLiturgische Farbe: Grün\nPredigttext: 5. Mo 30,11-14\n\nWochenspruch: 1. Johannes 4,21\nWochenlieder: EG 414 oder EG 658\n\nWochenpsalm: 1\n\nI: Jakobus 2,14-26\nII: 5. Mose 30,11-14\nIII: Markus 10,17-27\nIV: Epheser 5,15-20\nV: 2. Mose 20,1-17\nVI: 1. Petrus 4,7-11\n\nLesungen:\n1. AT: 2. Mose 20,1-17\n2. Epistel: Epheser 5,15-20\n3. Evangelium: Markus 10,17-27\n
+CLASS:PUBLIC
+DTSTART;VALUE=DATE: 20261004
+DTSTAMP:20181026T000000Z
+URL;VALUE=URI:https://www.elk-wue.de/glauben/kirchenjahr/
+End: VEVENT
+BEGIN:VEVENT
+SUMMARY:19. Sonntag nach Trinitatis - Heilung an Leib und Seele
+DESCRIPTION: Predigtreihe II neu\nLiturgische Farbe: Grün\nPredigttext: Eph 4,22-32\n\nWochenspruch: Jeremia 17,14\nWochenlieder: EG 324 oder Wwdl+ 116\n\nWochenpsalm: 32,1-7\n\nI: Johannes 5,1-16\nII: Epheser 4,22-32\nIII: Jesaja 38,9-20\nIV: Markus 2,1-12\nV: Jakobus 5,13-16\nVI: 2. Mose 34,4-10\n\nLesungen:\n1. AT: 2. Mose 34,4-10\n2. Epistel: Jakobus 5,13-16\n3. Evangelium: Markus 2,1-12\n
+CLASS:PUBLIC
+DTSTART;VALUE=DATE: 20261011
+DTSTAMP:20181026T000000Z
+URL;VALUE=URI:https://www.elk-wue.de/glauben/kirchenjahr/
+End: VEVENT
+BEGIN:VEVENT
+SUMMARY:20. Sonntag nach Trinitatis - Die Ordnungen Gottes
+DESCRIPTION: Predigtreihe II neu\nLiturgische Farbe: Grün\nPredigttext: Mk 2,23-28\n\nWochenspruch: Micha 6,8\nWochenlieder: EG 295 oder 408\n\nWochenpsalm: 119,1-8.17-18\nPflichtopfer für Diakonie in der Landeskirche (DWW)\n\nI: 1. Mose 8,18-22;9,12-17\nII: Markus 2,23-28\III: Prediger 12,1-7\nIV: Hoheslied 8,6b-7\nV: Markus 10,2-9.(10-12.)13-16\nVI: 2. Korinther 3,3-6.(7-9)\n\nLesungen:\n1. AT: 1. Mose 8,18-22;9,12-17\n2. Epistel: 2. Korinther 3,3-6.(7-9)\n3. Evangelium: Markus 10,2-9.(10-12.)13-16\n
+CLASS:PUBLIC
+DTSTART;VALUE=DATE: 20261018
+DTSTAMP:20181026T000000Z
+URL;VALUE=URI:https://www.elk-wue.de/glauben/kirchenjahr/
+End: VEVENT
+BEGIN:VEVENT
+SUMMARY:Reformationstag - Gedenktag der Reformation: Gnade und Glaube
+DESCRIPTION: Predigtreihe II neu\nLiturgische Farbe: Rot\nPredigttext: Mt 10,26b-33\n\nTagesspruch: 1. Kor 3,11\nTageslieder: EG 341 oder EG 360\n\nWochenpsalm: 46,2-12\n
+CLASS:PUBLIC
+DTSTART;VALUE=DATE: 20261031
+DTSTAMP:20181026T000000Z
+URL;VALUE=URI:https://www.elk-wue.de/glauben/kirchenjahr/
+End: VEVENT
+BEGIN:VEVENT
+SUMMARY:Reformationsfest - Gnade und Glaube
+DESCRIPTION: Predigtreihe II neu\nLiturgische Farbe: Rot\nPredigttext: Mt. 10,26b-33\n\nTagesspruch: 1. Kor 3,11\nTageslieder: EG 341 oder EG 360\n\nWochenpsalm: 46,2-12\nPflichtopfer für Bibelverbreitung weltweit
+CLASS:PUBLICDTSTART;VALUE=DATE: 20261101
+DTSTAMP:20181026T000000Z
+URL;VALUE=URI:https://www.elk-wue.de/glauben/kirchenjahr/
+End: VEVENT
+BEGIN:VEVENT
+SUMMARY:21. Sonntag nach Trinitatis - Die geistliche Waffenrüstung
+DESCRIPTION: Predigtreihe II neu\nLiturgische Farbe: Grün\nPredigttext: Jer 29,1.4-7.(8-9.)10-14\n\nWochenspruch: Römer 12,21\nWochenlieder: EG 377 oder 657\n\nWochenpsalm: 19\n\nI: Epheser 6,10-17\nII: Jeremia 29,1.4-7.(8-9.)10-14\III: Matthäus 10,34-39\nIV: Johannes 15,9-12.(13-17)\nV: 1. Mose 13,1-12.(13-18)\nVI: Matthäus 5,38-48\n\nLesungen:\n1. AT: Jeremia 29,1-7.(8-9.)10-14\n2. Epistel: Epheser 6,10-17\n3. Evangelium: Matthäus 5,38-48\n
+CLASS:PUBLIC
+DTSTART;VALUE=DATE: 20261025
+DTSTAMP:20181026T000000Z
+URL;VALUE=URI:https://www.elk-wue.de/glauben/kirchenjahr/
+End: VEVENT
+BEGIN:VEVENT
+SUMMARY:22. Sonntag nach Trinitatis - In Gottes Schuld
+DESCRIPTION:Predigtreihe II\nLiturgische Farbe: Grün\nPredigttext: Römer 7,14-25a\n\nWochenspruch: Psalm 130,4\nWochenlieder: EG 251 oder Wwdl+ 93\n\nWochenpsalm: 143\nPflichtopfer für die Bibelverbreitung\n\nI: Matthäus 18,21-35\nII: Römer 7,14-25a\nIII: Jesaja 44,21-23\nIV: Matthäus 18,15-20\nV: 1. Johannes 2,12-14\nVI: Micha 6,1-8\n\nLesungen:\n1. AT: Jesaja 44,21-23\n2. Epistel: Römer 7,14-25a\n3. Evangelium: Matthäus 18,21-35\n
+CLASS:PUBLIC
+DTSTART;VALUE=DATE: 20261101
+DTSTAMP:20181026T000000Z
+URL;VALUE=URI:https://www.elk-wue.de/glauben/kirchenjahr/
+End: VEVENT
+BEGIN:VEVENT
+SUMMARY:Drittletzter Sonntag des Kirchenjahres - Mitten unter uns
+DESCRIPTION: Predigtreihe II neu\nLiturgische Farbe: Grün\nPredigttext: 1. Thess 5,1-6.(7-11)\n\nWochenspruch: Matthäus 5,9\nWochenlieder: EG 152 oder 426\n\nWochenpsalm: 85,9-14\n\nI: Lukas 6,27-38\nII: 1. Thessalonicher 5,1-6.(7-11)\nIII: Psalm 85\nIV: Lukas 17,20-24.(25-30)\nV: Römer 8,18-25\nVI: Micha 4,1-5.(7b)\n\nLesungen:\n1. AT: Micha 4,1-5.(7b)\n2. Epistel: Römer 8,18-25\n3. Evangelium: Lukas 17,20-24.(25-30)\n
+CLASS:PUBLIC
+DTSTART;VALUE=DATE: 20261108
+DTSTAMP:20181026T000000Z
+URL;VALUE=URI:https://www.elk-wue.de/glauben/kirchenjahr/
+End: VEVENT
+BEGIN:VEVENT
+SUMMARY:Vorletzter Sonntag des Kirchenjahres (Volkstrauertag)
+DESCRIPTION: Predigtreihe II neu\nLiturgische Farbe: Grün\nPredigttext: Lk 16,1-8.(9)\n\nWochenspruch: 2. Korinther 5,10a\nWochenlieder: EG 149 oder 378\n\nWochenpsalm: 50,1-6.14-15.23\nempfohlenes Opfer Friedensdienste\n\nI: Hiob 14,1-6.(7-12.)13.(14.)15-17\nII: Lukas 16,1-8.(9)\nIII: 2. Korinther 5,1-10\nIV: Lukas 18,1-8\nV: Matthäus 25,31-46\nVI: Römer 14,(1-6.)7-13\n\nLesungen:\n1. AT: Hiob 14,1-6.(7-12.)13.(14.)15-17\n2. Epistel: Römer 14,(1-6.)7-13\n3. Evangelium: Matthäus 25,31-46\n
+CLASS:PUBLIC
+DTSTART;VALUE=DATE: 20261115
+DTSTAMP:20181026T000000Z
+URL;VALUE=URI:https://www.elk-wue.de/glauben/kirchenjahr/
+End: VEVENT
+BEGIN:VEVENT
+SUMMARY:Buß- und Bettag - Ruf zur Umkehr
+DESCRIPTION: Predigtreihe II neu\nLiturgische Farbe: Violett\nPredigttext: Jes 1,10-18\n\nWochenspruch: Sprüche 14,34\nWochenlieder: EG 299 oder 428\n\nWochenpsalm: 130\n\nI: Römer 2,1-11\nII: Jesaja 1,10-18\nIII: Matthäus 7,12-20\nIV: Offenbarung 3,1-6\nV: Hesekiel 22,23-31\nVI: Lukas 13,(1-5.)6-9\n\nLesungen:\n1. AT: Jesaja 1,10-18\n2. Epistel: Römer 2,1-11\n3. Evangelium: Lukas 13,(1-5.)6-9\n
+CLASS:PUBLIC
+DTSTART;VALUE=DATE: 20261118
+DTSTAMP:20181026T000000Z
+URL;VALUE=URI:https://www.elk-wue.de/glauben/kirchenjahr/
+End: VEVENT
+BEGIN:VEVENT
+SUMMARY:Totensonntag - Gedenktag der Entschlafenen: Die Hoffnung des ewigen Lebens
+DESCRIPTION: Predigtreihe II neu\nLiturgische Farbe: Weiß \nPredigttext: 1. Kor 15,35-38.42-44a 
+\n\nWochenspruch: Psalm 90,12\nWochenlieder: EG 526 oder 533\n\nWochenpsalm: 90,1-14\n\nI: Johannes 5,24-29\nII: 1. Korinther 15,35-38.42-44a\nIII: 5. Mose 34,1-8\nIV: Johannes 6,37-40\nV: Daniel 12,1b-3\nVI: Psalm 90,1-14\n\nLesungen:\n1. AT: 5. Mose 34,1-8\n2. Epistel: 1. Korinther 15,35-38.42-44a\n3. Evangelium: Johannes 5,24-29\n
+CLASS:PUBLIC
+DTSTART;VALUE=DATE: 20261122
+DTSTAMP:20181026T000000Z
+URL;VALUE=URI:https://www.elk-wue.de/glauben/kirchenjahr/
+End: VEVENT
+BEGIN:VEVENT
+SUMMARY:Ewigkeitssonntag - Die ewige Stadt
+DESCRIPTION: Predigtreihe II neu\nLiturgische Farbe: Weiß \nPredigttext: Ofb 21,1-7\n\nWochenspruch: Lukas 12,35\nWochenlieder: EG 147+535 oder 153\n\nWochenpsalm:126\n\nI: Matthäus 25,1-13\nII: Offenbarung 21,1-7\nIII: Jesaja 65,17-19.(20-22.)23-25\nIV: Markus 13,28-37\nV: 2. Petrus 3,(3-7.)8-13\nVI: Psalm 126\n\nLesungen:\n1. AT: Jesaja 65,17-19.(20-22.)23-25\n2. Epistel: Offenbarung 21,1-7\n3. Evangelium: Matthäus 25,1-13\n
+CLASS:PUBLIC
+DTSTART;VALUE=DATE: 20261122
+DTSTAMP:20181026T000000Z
+URL;VALUE=URI:https://www.elk-wue.de/glauben/kirchenjahr/
+End: VEVENT
