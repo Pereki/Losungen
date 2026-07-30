@@ -7,7 +7,7 @@
     <div v-if="liturgicalDay" v-for="liturgicDay in liturgicalDay">
       <v-card class="rounded-2xl p-5 mt-2 ml-auto mr-auto max-w-500 w-full sm:w-120">
         <div class="flex gap-3">
-          <div class="bg-green-700 rounded-full flex items-center justify-center" style="width: 48px; height: 48px;">
+          <div class="bg-green-700 rounded-full flex items-center justify-center shrink-0" style="width: 48px; height: 48px;">
             <v-icon class="text-white">mdi-calendar-text</v-icon>
           </div>
           <div>

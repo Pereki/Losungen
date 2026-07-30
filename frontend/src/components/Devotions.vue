@@ -2,7 +2,6 @@
   <div class="pb-14">
     <v-app-bar title="📖 Die tägliche Losung">
       <template v-slot:append>
-        <v-btn icon="mdi-calendar-text" to="/liturgical-days" />
       </template>
     </v-app-bar>
 
@@ -12,33 +11,15 @@
       <v-btn @click="increaseOffsetDate"><v-icon>mdi-chevron-right</v-icon></v-btn>
     </div>
 
-    <v-container class="flex items-center" max-width="900">
-      <DevotionsCard v-if="devotion" :devotion="devotion" />
-    </v-container>
-
     <v-container>
       <NextChurchDayCard v-if="nextChurchDay" :devotion="nextChurchDay" @more-information="el => router.push(`/liturgical-day/${el}`)" />
     </v-container>
+
+    <v-container class="flex items-center" max-width="900">
+      <DevotionsCard v-if="devotion" :devotion="devotion" />
+    </v-container>
   </div>
-  <v-bottom-navigation>
-    <v-btn value="recent">
-      <v-icon>mdi-history</v-icon>
 
-      <span>Recent</span>
-    </v-btn>
-
-    <v-btn value="favorites">
-      <v-icon>mdi-heart</v-icon>
-
-      <span>Favorites</span>
-    </v-btn>
-
-    <v-btn value="nearby">
-      <v-icon>mdi-map-marker</v-icon>
-
-      <span>Nearby</span>
-    </v-btn>
-  </v-bottom-navigation>
 </template>
 
 <script setup lang="ts">

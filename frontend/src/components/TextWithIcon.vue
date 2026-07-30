@@ -1,6 +1,6 @@
 <template>
   <div class="flex gap-3 items-center">
-    <div :class="`rounded-full ${bgClass} flex items-center justify-center`" style="width: 32px; height: 32px;">
+    <div :class="`rounded-full ${bgClass} flex items-center justify-center shrink-0`" style="width: 32px; height: 32px;">
       <v-icon class="text-white" size="x-small">{{ icon }}</v-icon>
     </div>
     <div class="flex justify-between w-100">
