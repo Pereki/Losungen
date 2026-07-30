@@ -8,7 +8,7 @@
       <div>
         <h1 class="text-xl mb-2 font-bold">Losung</h1>
         <div>{{ devotion.text }}</div>
-        <div class="font-bold">{{ devotion.verse }}</div>
+        <div class="font-bold">{{ devotion.verse.book }} {{ devotion.verse.chapter }},{{ devotion.verse.verse }}</div>
       </div>
     </div>
 
@@ -20,7 +20,7 @@
       <div>
         <h1 class="text-xl mb-2 font-bold">Lehrtext</h1>
         <div>{{ devotion.teaching }}</div>
-        <div class="font-bold">{{ devotion.teaching_verse }}</div>
+        <div class="font-bold">{{ devotion.teaching_verse.book }} {{ devotion.teaching_verse.chapter }},{{ devotion.teaching_verse.verse }}</div>
       </div>
     </div>
 

@@ -3,9 +3,9 @@
     <v-app-bar title="Die tägliche Losung" />
 
     <div class="flex justify-center gap-5 mt-4 w-full">
-      <v-btn @click="offset--"><v-icon>mdi-chevron-left</v-icon></v-btn>
+      <v-btn @click="decreaseOffsetDate"><v-icon>mdi-chevron-left</v-icon></v-btn>
       <v-btn @click="loadDevotion"><v-icon>mdi-calendar-today</v-icon></v-btn>
-      <v-btn @click="offset++"><v-icon>mdi-chevron-right</v-icon></v-btn>
+      <v-btn @click="increaseOffsetDate"><v-icon>mdi-chevron-right</v-icon></v-btn>
     </div>
 
     <v-container class="flex items-center" max-width="900">
@@ -13,7 +13,7 @@
     </v-container>
 
     <v-container>
-      <NextChurchDayCard v-if="nextChurchDay" :devotion="nextChurchDay" />
+      <NextChurchDayCard v-if="nextChurchDay" :devotion="nextChurchDay" @more-information="el => offset = new Date(el)" />
     </v-container>
   </div>
 </template>
@@ -24,7 +24,7 @@
   import { getDevotionOf, getDevotionOfTheDay, getNextChurchDay } from '@/api/api'
   import DevotionsCard from '@/components/DevotionsCard.vue'
   import NextChurchDayCard from './NextChurchDayCard.vue'
-  const offset = ref(0)
+  const offset = ref(new Date())
   const devotion: Ref<Devotion | undefined> = ref(undefined)
   const nextChurchDay: Ref<Devotion | undefined> = ref(undefined)
 
@@ -34,18 +34,32 @@
   })
 
   async function loadDevotion () {
-    devotion.value = await getDevotionOfTheDay()
-    offset.value = 0
+    offset.value = new Date()
+    devotion.value = await getDevotionOf(toDateString(offset.value))
+  }
+
+  function toDateString (date: Date): string {
+    return date.toISOString().split('T', 1)[0]
   }
 
   async function loadChurchDay () {
     nextChurchDay.value = await getNextChurchDay()
   }
 
+  function increaseOffsetDate () {
+    const date = new Date(offset.value)
+    date.setDate(date.getDate() + 1)
+    offset.value = date
+  }
+
+  function decreaseOffsetDate () {
+    const date = new Date(offset.value)
+    date.setDate(date.getDate() - 1)
+    offset.value = date
+  }
+
   watch(offset, async () => {
-    const date = new Date()
-    date.setDate(date.getDate() + offset.value)
-    devotion.value = await getDevotionOf(date.toISOString().split('T', 1)[0])
+    devotion.value = await getDevotionOf(toDateString(offset.value))
   })
 </script>
 
