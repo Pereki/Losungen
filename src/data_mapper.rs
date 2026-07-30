@@ -1,6 +1,6 @@
 use std::collections::HashMap;
 
-use chrono::Utc;
+use chrono::{NaiveDate, Utc};
 
 use crate::data::Devotion;
 
@@ -23,5 +23,24 @@ impl DataMapper {
 
     pub fn get_devotion_of(&self, date: &str) -> Devotion {
         self.devotionals.get(date).cloned().unwrap()
+    }
+
+    pub fn get_next_church_day(&self) -> Devotion {
+        let today = Utc::now().date_naive();
+        let mut devotionals: Vec<_> = self
+            .devotionals
+            .iter()
+            .filter(|x| {
+                NaiveDate::parse_from_str(x.0, "%Y-%m-%d")
+                    .unwrap()
+                    .ge(&today)
+            })
+            .filter(|x| x.1.liturgical_day.is_some())
+            .map(|x| x.1.clone())
+            .collect();
+
+        devotionals.sort_by(|a, b| a.date.cmp(&b.date));
+
+        devotionals.first().unwrap().clone()
     }
 }

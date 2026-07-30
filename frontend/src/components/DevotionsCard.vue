@@ -23,7 +23,14 @@
         <div class="font-bold">{{ devotion.teaching_verse }}</div>
       </div>
     </div>
+
+    <v-divider class="mt-5 mb-5" />
+
+    <p>
+      Losungen® © Evangelische Brüder-Unität – Herrnhuter Brüdergemeine, <a href="https://www.losungen.de">www.losungen.de</a>
+    </p>
   </v-card>
+
 </template>
 
 <script setup lang="ts">
