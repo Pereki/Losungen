@@ -1,6 +1,6 @@
 <template>
   <div class="pb-14">
-    <v-app-bar title="Die tägliche Losung" />
+    <v-app-bar title="📖 Die tägliche Losung" />
 
     <div class="flex justify-center gap-5 mt-4 w-full">
       <v-btn @click="decreaseOffsetDate"><v-icon>mdi-chevron-left</v-icon></v-btn>

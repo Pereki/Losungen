@@ -1,5 +1,5 @@
 <template>
-  <v-card class="rounded-2xl p-5 ml-auto mr-auto max-w-500 w-120">
+  <v-card class="rounded-2xl p-5 ml-auto mr-auto max-w-500 w-full sm:w-120">
     <div class="flex gap-1 mb-2 text-gray-500"><v-icon>mdi-calendar</v-icon><h1 class="mb-2 bold">{{ devotion.weekday }}, {{ new Date(devotion.date).toLocaleDateString() }}</h1></div>
 
     <div class="flex gap-3">
