@@ -8,7 +8,13 @@
       <div>
         <h1 class="text-xl mb-2 font-bold">Losung</h1>
         <div>{{ devotion.text }}</div>
-        <div class="font-bold">{{ devotion.verse.book }} {{ devotion.verse.chapter }},{{ devotion.verse.verse }}</div>
+
+        <div class="font-bold flex items-center gap-1">
+          {{ devotion.verse.book }} {{ devotion.verse.chapter }},{{ devotion.verse.verse }}
+          <a class="text-blue-500 hover:text-blue-700" :href="getBibleLink(devotion.verse.book, devotion.verse.chapter, devotion.verse.verse)" rel="noopener noreferrer" target="_blank">
+            <v-icon size="x-small">mdi-open-in-new</v-icon>
+          </a>
+        </div>
       </div>
     </div>
 
@@ -20,7 +26,13 @@
       <div>
         <h1 class="text-xl mb-2 font-bold">Lehrtext</h1>
         <div>{{ devotion.teaching }}</div>
-        <div class="font-bold">{{ devotion.teaching_verse.book }} {{ devotion.teaching_verse.chapter }},{{ devotion.teaching_verse.verse }}</div>
+
+        <div class="font-bold flex items-center gap-1">
+          {{ devotion.teaching_verse.book }} {{ devotion.teaching_verse.chapter }},{{ devotion.teaching_verse.verse }}
+          <a class="text-blue-500 hover:text-blue-700" :href="getBibleLink(devotion.teaching_verse.book, devotion.teaching_verse.chapter, devotion.teaching_verse.verse)" rel="noopener noreferrer" target="_blank">
+            <v-icon size="x-small">mdi-open-in-new</v-icon>
+          </a>
+        </div>
       </div>
     </div>
 
@@ -36,6 +48,8 @@
 <script setup lang="ts">
   import type { Devotion } from '@/api/models'
   import { VContainer } from 'vuetify/components'
+
+  import { getBibleLink } from '@/api/util'
 
   defineProps<{ devotion: Devotion }>()
 </script>

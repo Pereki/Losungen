@@ -1,8 +1,7 @@
 <template>
   <div class="pb-14">
     <v-app-bar title="📖 Die tägliche Losung">
-      <template v-slot:append>
-      </template>
+      <template #append />
     </v-app-bar>
 
     <div class="flex justify-center gap-5 mt-4 w-full">
@@ -12,7 +11,7 @@
     </div>
 
     <v-container>
-      <NextChurchDayCard v-if="nextChurchDay" :devotion="nextChurchDay" @more-information="el => router.push(`/liturgical-day/${el}`)" />
+      <NextChurchDayCard v-if="nextChurchDay" :devotion="nextChurchDay" @more-information="goToLiturgicalDay" />
     </v-container>
 
     <v-container class="flex items-center" max-width="900">
@@ -25,10 +24,11 @@
 <script setup lang="ts">
   import type { Devotion } from '@/api/models'
   import { onMounted, ref, type Ref, watch } from 'vue'
+  import { useRouter } from 'vue-router'
   import { getDevotionOf, getDevotionOfTheDay, getNextChurchDay } from '@/api/api'
   import DevotionsCard from '@/components/DevotionsCard.vue'
   import NextChurchDayCard from './NextChurchDayCard.vue'
-import router from '@/router'
+  const router = useRouter()
   const offset = ref(new Date())
   const devotion: Ref<Devotion | undefined> = ref(undefined)
   const nextChurchDay: Ref<Devotion | undefined> = ref(undefined)
@@ -49,6 +49,10 @@ import router from '@/router'
 
   async function loadChurchDay () {
     nextChurchDay.value = await getNextChurchDay()
+  }
+
+  function goToLiturgicalDay (el: string) {
+    router.push(`/liturgical-day/${el}`)
   }
 
   function increaseOffsetDate () {
